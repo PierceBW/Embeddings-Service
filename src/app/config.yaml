@@ -1,0 +1,63 @@
+active_model: "hybrid_risk_mlp" # Swap models here
+active_explanation_strategy: "counterfactual" # Swap explanation strategies here
+
+# Library wide service options
+service:
+  version: "v1.0"
+  risk_categories:
+    - { code: 0, default_name: "Low Risk",    upper_bound: 0.40 }
+    - { code: 1, default_name: "Medium Risk", upper_bound: 0.75 }
+    - { code: 2, default_name: "High Risk",   upper_bound: 1.01 }
+
+
+
+# Repository of our supported models
+models:
+    value_attrition_cnn:
+      mdl_class_name: "EmbeddingCNN2D"
+      mdl_weights_path: "models/value_attrition/Value_attrition_cnn.pth"
+      mdl_architecture_path: "app/model_architecture.py"
+      type: "pytorch"
+      baseline_values_path: "models/value_attrition/baseline_values.json"
+      input_shape: [9, 384] # [num_features, embed_size]
+      embedding:
+        strategy: "value_only"
+        embedder_name: "all-MiniLM-L6-v2"
+        numeric_dim: 
+        feature_order:
+          - satisfaction_level
+          - last_evaluation
+          - number_project
+          - average_montly_hours
+          - time_spend_company
+          - Work_accident
+          - promotion_last_5years
+          - sales
+          - salary
+    hybrid_risk_mlp:
+      mdl_class_name: "EmbeddingMLP1D"
+      mdl_weights_path: "models/hybrid_risk/Final_MLP_model.pth"
+      mdl_architecture_path: "app/model_architecture.py"
+      type: "pytorch"
+      baseline_values_path: "models/hybrid_risk/baseline_values.json"
+      input_shape: [2944]
+      embedding:
+        strategy: "hybrid_1d"
+        embedder_name: "all-MiniLM-L6-v2"
+        numeric_dim: 32
+        feature_order:
+          - addr_state
+          - earliest_cr_line
+          - emp_length
+          - emp_title
+          - sub_grade
+          - title
+          - zip_code
+          - avg_cur_bal
+          - dti
+          - fico_range_high
+          - int_rate
+          - loan_amnt
+          - mort_acc
+          - num_op_rev_tl
+          - revol_util

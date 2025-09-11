@@ -1,0 +1,751 @@
+loan_amnt,int_rate,title,emp_title,emp_length,addr_state,sub_grade,dti,avg_cur_bal,revol_util,num_op_rev_tl,mort_acc,earliest_cr_line,fico_range_high,zip_code
+7000.0,7.97,Other,Truck Driver,10+ years,TN,A5,17.32,11282.0,29.3,11.0,1.0,Feb-2006,724.0,377
+4000.0,7.89,Major purchase,LOGISTICIAN,10+ years,NY,A5,22.55,3733.0,29.5,11.0,0.0,Feb-1999,764.0,090
+17475.0,17.57,Debt consolidation,Field Service Techinican,8 years,IL,D4,34.42,9386.0,30.7,7.0,0.0,Apr-2001,734.0,606
+13000.0,10.99,Debt consolidation,Sales,4 years,OH,B3,16.23,6234.0,32.6,11.0,1.0,Jul-2002,679.0,443
+20000.0,10.49,Debt consolidation,Manager of Engineering,10+ years,TX,B3,13.98,26003.0,58.4,6.0,3.0,Apr-2002,719.0,785
+35000.0,16.55,Credit card refinancing,Program analyst,10+ years,OK,D2,12.27,41302.0,84.4,5.0,7.0,Nov-1994,714.0,730
+35000.0,22.39,Debt consolidation,District Sales Manger,3 years,RI,E1,25.7,12893.0,93.0,6.0,2.0,Mar-1989,674.0,028
+12000.0,17.86,Debt consolidation,nurse,1 year,GA,D5,7.0,340.0,26.7,22.0,0.0,Jul-2004,669.0,304
+9000.0,12.99,Debt consolidation,TEACHER AID,10+ years,NJ,C2,31.29,1847.0,45.4,8.0,0.0,Sep-2007,674.0,071
+12000.0,12.69,Debt consolidation,Sergeant of Police,10+ years,TX,C2,10.41,32745.0,93.3,7.0,4.0,Nov-1992,679.0,760
+15000.0,15.61,Other,Latchkey After School Teacher,2 years,SC,C5,3.6,33274.0,51.3,5.0,6.0,May-1987,689.0,294
+10000.0,12.12,Debt Consolidation,Markem Imaje,< 1 year,IL,B3,27.62,2536.0,65.2,10.0,3.0,Aug-1995,699.0,600
+12000.0,11.49,Home improvement,LPN,5 years,OR,B5,25.15,24878.0,95.1,8.0,1.0,Feb-2005,684.0,970
+15000.0,15.31,Credit card refinancing,Floorgraphics Inc,2 years,VA,C2,26.74,4678.0,83.1,7.0,0.0,Oct-2004,699.0,234
+18000.0,14.64,Home improvement,Pulish,2 years,RI,C3,7.17,11397.0,25.1,9.0,1.0,May-2002,704.0,029
+10000.0,11.53,Debt consolidation,Supervisor,8 years,TX,B5,10.44,1397.0,50.3,8.0,0.0,Dec-1994,669.0,799
+11625.0,17.09,Debt consolidation,Quality Specialist,1 year,NY,D1,10.93,1993.0,80.0,5.0,0.0,Apr-2014,664.0,104
+25000.0,5.32,Credit card refinancing,System engineer,10+ years,TX,A1,11.79,18379.0,48.5,7.0,1.0,Apr-1990,744.0,750
+20000.0,11.44,Debt consolidation,Letter Carrier,7 years,NY,B4,12.1,2571.0,90.6,8.0,0.0,Feb-1999,664.0,100
+12000.0,11.55,Credit card refinancing,Office Manager,7 years,FL,B4,19.77,5386.0,39.9,9.0,0.0,Dec-1997,664.0,331
+15000.0,11.99,Debt consolidation,Technical Designer,3 years,NY,B3,16.46,3828.0,42.2,7.0,0.0,Apr-1995,704.0,113
+4000.0,7.89,Debt consolidation,Technologist,10+ years,NM,A5,7.2,10376.0,21.7,8.0,2.0,May-2001,754.0,871
+11000.0,7.96,Debt consolidation,Fuel and lube Technician,4 years,TX,A5,26.58,2473.0,19.8,15.0,0.0,Sep-2007,734.0,786
+12000.0,19.24,Debt consolidation,Transportation Supervisor,10+ years,MD,E2,33.46,4025.0,43.6,13.0,0.0,Mar-1999,704.0,212
+10650.0,18.49,Debt consolidation,Teacher,1 year,NY,E2,26.5,20400.0,54.0,6.0,1.0,Feb-2004,679.0,103
+18000.0,9.17,Debt consolidation,Special education teacher,7 years,WA,B2,18.04,3025.0,19.1,8.0,2.0,Jul-2002,664.0,988
+16000.0,6.97,Debt consolidation,Financial Advisor,10+ years,TX,A3,13.01,7271.0,66.2,6.0,2.0,Nov-1995,714.0,773
+20000.0,6.68,Home improvement,Principal,4 years,PA,A3,7.88,8097.0,9.4,23.0,2.0,Feb-1990,714.0,151
+8000.0,16.29,Debt consolidation,analyst,3 years,CA,D1,25.55,4104.0,41.9,7.0,0.0,Apr-2006,729.0,956
+32000.0,17.09,Other,Administrator,10+ years,NY,D1,20.07,13132.0,1.6,11.0,2.0,Aug-2005,739.0,142
+16500.0,7.89,Credit card refinancing,Prototype Machinist Supervisor,10+ years,IL,A5,11.01,22228.0,80.1,5.0,5.0,Jul-2002,689.0,624
+4000.0,6.97,Car financing,CNA,2 years,FL,A3,18.24,1504.0,24.6,10.0,0.0,Nov-2010,724.0,346
+35000.0,10.15,Home improvement,Director of Supply Management,10+ years,MA,B2,14.88,52503.0,75.7,5.0,4.0,Dec-1988,699.0,015
+6000.0,16.99,Other,Management Sytems Coordinator,10+ years,SC,D3,23.13,7160.0,36.4,10.0,3.0,Mar-2000,704.0,296
+2400.0,7.89,Debt consolidation,Manager,8 years,MS,A5,17.69,16995.0,28.3,4.0,2.0,Mar-1984,724.0,391
+6600.0,10.91,Debt consolidation,Teacher,< 1 year,TN,B4,56.56,109092.0,86.7,6.0,3.0,May-2003,709.0,370
+7850.0,14.09,Credit card refinancing,Jacobs Engineering,8 years,IL,B5,19.53,14816.0,71.8,5.0,1.0,Mar-2008,679.0,612
+11000.0,13.49,Debt consolidation,Account Manager,< 1 year,TX,C2,8.64,45454.0,37.3,4.0,3.0,Dec-1997,719.0,760
+24000.0,9.93,Home improvement,Legal Operations,9 years,FL,B2,21.3,4527.0,6.1,11.0,0.0,Aug-1994,759.0,346
+13000.0,21.0,Debt Consolidation Loan,Kaiser,3 years,CA,E2,23.89,3315.0,75.8,9.0,0.0,Mar-2005,674.0,913
+22875.0,24.08,Debt consolidation,HR and Accounting,6 years,VA,F2,20.5,13416.0,46.8,15.0,2.0,Feb-2000,664.0,201
+35000.0,18.24,Home improvement,medical insurance biller,7 years,NV,D5,2.6,48612.0,23.3,5.0,4.0,Apr-2001,794.0,891
+24000.0,10.99,Debt consolidation,backrender,9 years,NY,B3,18.45,15000.0,76.7,9.0,3.0,May-1997,719.0,121
+18000.0,7.26,Debt consolidation,Ramper,9 years,AK,A4,18.78,12328.0,40.1,15.0,5.0,Oct-1999,689.0,995
+15000.0,6.49,Debt consolidation,Nurse practitioner,10+ years,MI,A2,12.24,35503.0,19.9,10.0,6.0,Feb-1975,769.0,481
+6000.0,10.99,Debt consolidation,Education Coordinator,5 years,IN,B4,6.64,1036.0,48.4,5.0,0.0,Aug-2004,689.0,462
+25000.0,7.89,Debt consolidation,Shared Living Provider,3 years,VT,A5,28.92,5897.0,18.5,20.0,0.0,Apr-1997,749.0,054
+28800.0,8.49,Debt consolidation,Installer/Technician,9 years,MI,B1,26.56,13356.0,6.2,2.0,1.0,Mar-2002,819.0,481
+9000.0,7.21,Debt consolidation,Captain Fire Operations,10+ years,VA,A3,16.48,3863.0,22.8,7.0,2.0,Jun-2005,724.0,201
+12000.0,10.16,Credit card refinancing,Treo Solutions,2 years,KS,B1,9.73,38123.0,85.2,7.0,7.0,Jun-1999,694.0,662
+5950.0,17.57,Debt consolidation,Lawn tech,< 1 year,FL,D4,22.88,2018.0,81.4,5.0,0.0,Jun-2003,694.0,337
+28000.0,17.99,Home improvement,Loan Administration Manager,2 years,AZ,D2,11.95,10911.0,25.9,4.0,5.0,Aug-1992,719.0,852
+30000.0,11.53,Home improvement,Cash Management Director,4 years,NC,B5,3.0,2336.0,40.1,10.0,4.0,Jul-1998,699.0,278
+21000.0,13.98,Debt consolidation,Postal worker,9 years,TX,C3,29.91,13013.0,56.4,11.0,4.0,Dec-1990,684.0,751
+6850.0,6.62,debt consolidation,L-3,5 years,FL,A2,22.09,17822.0,13.6,9.0,5.0,Nov-1993,739.0,334
+35000.0,14.65,Home improvement,Sales Representative,10+ years,CA,C5,18.04,179773.0,95.0,6.0,10.0,Jan-1992,704.0,926
+24000.0,8.18,Debt consolidation,switching equipment technician,10+ years,PA,B1,14.96,4495.0,34.5,13.0,0.0,Aug-1996,714.0,166
+25000.0,10.99,Credit card refinancing,Director,7 years,CT,B4,12.44,100081.0,43.0,11.0,2.0,Jan-1996,724.0,068
+7200.0,15.05,Other,compound supervisor,3 years,TX,C4,28.39,2109.0,44.4,13.0,0.0,Mar-2005,684.0,752
+6500.0,13.67,Debt consolidation,Server,< 1 year,TX,C3,22.7,3142.0,61.2,5.0,0.0,Sep-2011,664.0,751
+10000.0,11.99,Credit card refinancing,Administrative Assistant,10+ years,NC,B5,17.92,16726.0,30.4,8.0,5.0,Sep-1992,679.0,286
+20000.0,9.17,Debt consolidation,vice president,2 years,MN,B2,12.82,2759.0,45.1,11.0,1.0,Aug-2001,679.0,551
+11000.0,13.33,Credit card refinancing,Respiratory Therapist,10+ years,WI,C3,8.98,10283.0,27.0,12.0,2.0,Jun-1997,689.0,535
+28000.0,8.19,Debt consolidation,operating engineer,4 years,IL,A5,10.77,17553.0,53.2,8.0,6.0,Apr-2000,699.0,600
+3125.0,18.55,Debt,RN,2 years,WA,D2,9.03,7900.0,96.8,4.0,0.0,Nov-1997,694.0,981
+15000.0,16.2,Payoff,Teacher,10+ years,TN,C4,9.81,2283.0,58.1,11.0,0.0,Mar-1993,669.0,380
+27500.0,14.52,Debt consolidation,Printer,10+ years,FL,C3,12.36,1149.0,3.8,4.0,0.0,Jul-2006,699.0,337
+20000.0,10.99,Debt consolidation,Executive Director,5 years,KY,B3,21.96,23285.0,62.7,7.0,3.0,Mar-1993,714.0,871
+7500.0,12.69,Credit card refinancing,personal banker,1 year,AZ,C2,6.18,1859.0,90.3,3.0,0.0,Dec-2011,684.0,860
+10000.0,16.55,Debt consolidation,Office Manager,10+ years,CT,D2,11.42,31432.0,49.7,5.0,1.0,Aug-2002,684.0,064
+12000.0,18.25,Debt consolidation,store manager,2 years,NJ,E1,18.25,2052.0,52.8,11.0,0.0,Nov-2000,694.0,071
+21600.0,14.99,Debt consolidation,RN,10+ years,PA,C5,7.29,30522.0,23.1,4.0,5.0,Apr-1998,679.0,191
+30000.0,11.99,Debt consolidation,Telecom Engineer,10+ years,NJ,C1,26.83,5150.0,27.9,10.0,0.0,Feb-2002,774.0,074
+22800.0,21.48,Consolidation,Dir sales and planning,1 year,MA,E2,11.85,15352.0,63.2,19.0,8.0,Mar-1994,689.0,021
+8000.0,10.91,Debt consolidation,Collector,1 year,CO,B4,34.85,1442.0,24.2,6.0,0.0,Mar-1990,689.0,809
+10000.0,7.26,Debt consolidation,Registered Nurse,6 years,TX,A4,5.23,1466.0,34.7,6.0,1.0,Nov-1988,714.0,770
+4500.0,11.49,Debt consolidation,Corrections Store Keeper 2,9 years,OH,B5,12.96,3942.0,61.5,4.0,1.0,Jul-2005,669.0,430
+5850.0,27.79,Debt consolidation,Forman,9 years,CA,F5,13.93,150842.0,0.0,2.0,3.0,Mar-2002,689.0,950
+19150.0,17.99,Debt consolidation,Human Resoures,10+ years,AZ,D2,20.99,2015.0,73.9,11.0,2.0,Apr-2002,664.0,850
+2000.0,5.32,Debt consolidation,Driver,3 years,MO,A1,16.33,751.0,8.8,10.0,0.0,Nov-1999,784.0,656
+21350.0,24.5,Debt consolidation,CommTech,< 1 year,CA,F3,18.98,5279.0,72.6,4.0,0.0,Mar-2011,674.0,959
+7300.0,6.99,Debt consolidation,Senior Underwriter,1 year,CA,A3,18.29,2852.0,29.9,6.0,2.0,May-1996,689.0,900
+6925.0,12.99,Credit card refinancing,Respiratory Technician,6 years,MI,B5,4.42,603.0,31.8,5.0,0.0,Jun-2006,679.0,481
+1000.0,23.88,Debt consolidation,Purchase Specailist,4 years,MI,E2,13.81,10878.0,54.8,10.0,1.0,Aug-2000,664.0,481
+36000.0,11.39,Business,QA welding inspector/ Welder,10+ years,NH,B3,20.15,43049.0,30.3,3.0,1.0,Jun-1994,734.0,030
+12000.0,11.99,Debt consolidation,Project Manager,10+ years,HI,B3,5.02,2723.0,53.4,5.0,0.0,Nov-2000,699.0,968
+5000.0,7.24,Debt consolidation,Associate Project Manager,10+ years,OH,A3,24.68,40946.0,84.2,4.0,3.0,Mar-1982,709.0,442
+20000.0,14.31,Debt consolidation,Tax Consultant,8 years,NY,C4,29.87,17279.0,69.0,9.0,2.0,May-1990,669.0,141
+12000.0,15.59,Debt consolidation,BRAND MANAGER,5 years,CA,D1,11.07,1844.0,69.7,8.0,0.0,Dec-2009,664.0,913
+13800.0,9.71,Debt consolidation,Guardian Building Products,8 years,SC,B1,21.9,3111.0,32.7,11.0,2.0,Mar-1991,699.0,293
+14000.0,7.89,Debt consolidation,Route Sales,7 years,OR,A5,14.88,24983.0,48.4,8.0,1.0,Oct-1977,714.0,971
+5000.0,14.08,Moving and relocation,RN,< 1 year,FL,C3,20.92,23111.0,35.7,6.0,2.0,Dec-2003,664.0,336
+21750.0,20.49,Debt consolidation,Regional Sales Manager,3 years,FL,E4,26.6,33337.0,85.8,7.0,1.0,Dec-2006,669.0,330
+6000.0,16.29,debt consolidation,Eagle Bevarage,2 years,MT,C4,16.0,12055.0,64.9,7.0,1.0,Nov-2006,694.0,594
+15225.0,18.25,Credit card refinancing,Technical Support,10+ years,CA,E1,20.33,3894.0,87.1,3.0,0.0,Feb-1987,724.0,928
+6000.0,10.49,Other,Adjuster,8 years,MI,B2,10.18,9390.0,28.7,14.0,1.0,May-2002,699.0,495
+24000.0,17.86,Credit card refinancing,Systems Engineer,4 years,NC,D5,13.34,11752.0,74.1,4.0,4.0,Dec-2000,699.0,282
+8500.0,11.99,Credit card refinancing,payroll specialist,10+ years,CA,B5,20.9,6308.0,41.1,6.0,4.0,May-2001,664.0,925
+28000.0,14.99,Credit card refinancing,technician,10+ years,NY,C5,26.57,27910.0,74.7,9.0,4.0,Mar-1983,679.0,116
+18000.0,13.99,Debt consolidation,Med Tech / C.N.A.,10+ years,GA,C4,25.12,32665.0,47.6,3.0,1.0,Oct-2003,674.0,305
+15000.0,11.99,Debt consolidation,Deputy Probation Officer,4 years,CA,C1,15.07,2428.0,48.3,9.0,0.0,Aug-2004,704.0,925
+13000.0,8.81,Credit card refinancing,driver,4 years,CA,A5,8.78,2848.0,29.4,9.0,0.0,Sep-2013,749.0,945
+11200.0,12.39,Debt consolidation,Billing Supervisor,9 years,NY,C1,7.62,1271.0,25.2,11.0,0.0,Jul-2003,669.0,117
+40000.0,5.32,Home improvement,Regional Branch Manager,10+ years,FL,A1,5.74,118377.0,35.3,7.0,4.0,Jun-1988,774.0,334
+15000.0,7.07,Other,Electrician,2 years,CA,A2,11.09,9282.0,16.4,3.0,0.0,Dec-2004,799.0,951
+20000.0,5.93,Debt consolidation,Senior Software Engineer,10+ years,PA,A1,7.77,36289.0,5.7,7.0,6.0,Apr-1994,814.0,173
+4000.0,11.44,Car financing,plumber,8 years,CT,B4,11.84,15174.0,47.6,11.0,5.0,Dec-1984,689.0,065
+26275.0,23.99,Credit card refinancing,Supervisor,9 years,VA,F3,38.3,6886.0,62.8,18.0,2.0,Aug-1999,684.0,245
+11200.0,15.31,Debt consolidation,Registered Paraplanner,9 years,AL,C5,17.78,2117.0,61.1,10.0,0.0,Jul-2004,664.0,350
+35000.0,12.79,Debt consolidation,Physician,2 years,MD,C1,15.1,8090.0,67.2,9.0,0.0,Sep-2003,674.0,212
+20000.0,11.53,Debt consolidation,Registered Nurse,3 years,SD,B5,28.77,4215.0,75.9,9.0,1.0,Oct-1997,679.0,571
+14000.0,18.25,Debt consolidation,Driver,10+ years,AZ,E1,18.85,5241.0,85.0,6.0,1.0,Mar-1993,664.0,852
+3500.0,8.9,Car financing,registered nurse,5 years,CA,A5,19.41,28309.0,85.2,7.0,2.0,Aug-1999,709.0,956
+10800.0,18.99,Debt consolidation,Lpn,< 1 year,OR,D4,8.99,50224.0,62.1,2.0,2.0,Aug-2005,664.0,970
+35000.0,16.99,Debt consolidation,Materials Management,10+ years,WA,D3,21.01,22994.0,63.2,10.0,3.0,Oct-1994,709.0,982
+10000.0,29.67,Debt consolidation,Program Facilitator,< 1 year,MD,G3,15.43,3333.0,86.4,3.0,0.0,Jul-2012,664.0,207
+15000.0,7.9,consolidation,bus operator,9 years,NY,A4,20.61,5342.0,78.5,5.0,0.0,Jan-2001,719.0,104
+24000.0,12.99,Home improvement,Sergeant,10+ years,CA,C2,20.64,15755.0,48.0,5.0,4.0,Sep-1996,699.0,936
+2400.0,17.57,Debt consolidation,Clinical research coordinator,6 years,PA,D2,8.44,1302.0,90.8,6.0,0.0,Sep-2003,679.0,191
+8000.0,13.98,Debt consolidation,Escalations/UniversalAgent,1 year,IL,C3,30.33,5015.0,53.8,7.0,0.0,Sep-1999,679.0,604
+18000.0,17.97,Debt consolidation,Store manager,1 year,NV,D4,31.24,5525.0,76.6,10.0,0.0,Jul-2006,684.0,890
+12000.0,8.18,Debt consolidation,Service Manager,4 years,NY,B1,15.85,14857.0,99.3,4.0,1.0,Sep-2007,699.0,145
+20875.0,16.29,Debt consolidation,Letter Carrier,10+ years,MD,D2,15.99,30933.0,82.7,5.0,2.0,Mar-2000,664.0,207
+10000.0,20.2,Debt consolidation,Nurse assistant,3 years,RI,E3,30.68,2521.0,72.0,8.0,0.0,Jan-2002,674.0,029
+27200.0,26.06,Other,Project manager,10+ years,CA,G5,4.06,2830.0,48.6,3.0,0.0,Feb-2003,679.0,911
+24000.0,19.99,Business,material handler,9 years,UT,E1,27.62,14452.0,45.1,8.0,1.0,Mar-2004,729.0,840
+12000.0,12.29,Credit card refinancing,New Launch Quality Engineer,2 years,TN,C1,25.4,6048.0,60.2,4.0,0.0,Apr-2002,664.0,372
+5500.0,20.49,down with debt,PDQ Stores,10+ years,CA,E1,10.8,813.0,56.7,7.0,0.0,Oct-1985,684.0,961
+20000.0,7.35,Home improvement,MArketing,5 years,CA,A4,10.08,21684.0,18.7,10.0,1.0,May-2006,739.0,933
+11000.0,7.9,Debt consolidation,Customer Service Agent,10+ years,AZ,A4,17.57,4442.0,21.3,6.0,0.0,Nov-2003,759.0,864
+10000.0,7.24,Debt consolidation,associate director learning,10+ years,PA,A3,17.84,4323.0,67.0,17.0,0.0,Dec-1976,734.0,194
+6000.0,15.59,Debt consolidation,BUSINESS BANKER,10+ years,IN,D1,30.47,10350.0,71.1,13.0,2.0,Nov-1999,684.0,467
+10050.0,17.57,Other,Case Manager,2 years,WA,D4,20.89,3066.0,89.1,5.0,0.0,Sep-2004,669.0,983
+7000.0,8.18,Debt consolidation,teacher aide,8 years,NY,B1,10.03,5594.0,30.5,4.0,1.0,Jun-2003,714.0,117
+1950.0,22.15,Other,water control,3 years,FL,E5,4.24,30150.0,22.6,3.0,1.0,Jul-2005,714.0,334
+20000.0,6.03,Debt consolidation,Director of Sales,3 years,GA,A1,28.51,5450.0,31.3,17.0,0.0,Apr-2001,754.0,302
+13800.0,12.12,Debt Consolidation,Day Wireless Systems,< 1 year,CA,B3,17.11,5454.0,73.8,5.0,0.0,Feb-2001,699.0,945
+10000.0,6.03,PAY OFF DEBT,"Orloff, Lowenbach, Stifelman & Siegel",7 years,NJ,A1,10.71,2866.0,23.0,8.0,3.0,Oct-1981,819.0,088
+25000.0,7.69,Credit card refinancing,Lead Operator,5 years,CA,A4,14.14,3068.0,46.9,9.0,0.0,Nov-2001,744.0,902
+10925.0,17.57,Debt consolidation,Termite/wildlife tech,2 years,WV,D4,13.29,5199.0,33.0,22.0,1.0,Nov-1996,674.0,260
+10000.0,11.44,Debt consolidation,Sales Account Manager,5 years,CA,B4,12.23,2516.0,58.0,6.0,0.0,Oct-2001,669.0,900
+1500.0,27.27,Moving and relocation,Appraiser,8 years,NY,E5,1.79,2042.0,85.3,2.0,0.0,Oct-2003,669.0,112
+20400.0,13.18,Debt consolidation,ELIGIBILITY SPECIALST,9 years,MI,C3,28.28,7154.0,78.8,15.0,5.0,Nov-2004,664.0,495
+6000.0,13.66,Debt consolidation,supervisor,5 years,NY,C3,24.87,1468.0,37.5,12.0,0.0,Oct-2008,684.0,130
+19800.0,14.64,Credit card refinancing,Branch manager,8 years,NJ,C3,15.31,2494.0,40.7,14.0,0.0,Feb-2007,719.0,075
+20950.0,25.83,Debt consolidation,Breakdown,1 year,IN,G2,9.6,17794.0,27.7,3.0,2.0,Nov-2003,684.0,468
+5000.0,11.99,Credit Card Payoff,Paraeducator,10+ years,CA,B3,17.92,2288.0,38.1,6.0,4.0,Oct-1993,674.0,907
+24000.0,6.49,Credit card refinancing,Physical therapist,6 years,NC,A2,10.06,4581.0,39.6,10.0,1.0,Feb-1996,714.0,282
+25000.0,7.49,Credit card refinancing,DIRECTOR,10+ years,TX,A4,12.94,9596.0,8.9,38.0,3.0,Jun-2006,769.0,774
+8500.0,13.35,Debt consolidation,INSIDE SALES/WAREHOUSE MGR,10+ years,IL,C2,27.15,2867.0,38.2,17.0,0.0,Oct-2003,679.0,622
+28000.0,16.55,Debt consolidation,"Regional Sales Director, US West",1 year,CA,D2,8.63,11607.0,85.3,4.0,0.0,Jun-2009,709.0,926
+26500.0,23.63,Debt Consolidation,United States Navy,6 years,CA,F3,20.84,4437.0,68.2,6.0,0.0,Dec-2006,684.0,925
+30000.0,16.02,Debt consolidation,Supervisor,10+ years,VA,C5,21.94,2839.0,77.3,13.0,0.0,Aug-2006,684.0,201
+8000.0,11.99,Major purchase,Floor Supervisor,3 years,TX,C1,12.9,2281.0,45.0,10.0,0.0,Jul-2012,679.0,750
+20000.0,7.39,Debt consolidation,Exec Chef,10+ years,TX,A4,8.37,4547.0,52.8,4.0,0.0,Jul-2003,714.0,752
+20000.0,5.32,Home improvement,"Director, New Product Development",5 years,CA,A1,2.56,146458.0,7.7,5.0,6.0,Nov-1994,759.0,920
+35000.0,15.99,Debt consolidation,factory representive,7 years,MO,C5,21.01,6579.0,39.2,13.0,4.0,Apr-1996,679.0,640
+11200.0,11.53,Debt consolidation,RN,2 years,OH,B5,18.97,6583.0,88.7,9.0,0.0,Oct-1998,689.0,430
+12800.0,5.32,Debt consolidation,Manger,5 years,GA,A1,12.71,37868.0,14.7,6.0,2.0,Feb-1994,684.0,303
+7500.0,10.99,Home improvement,IT Specialist,2 years,NC,B3,12.48,4303.0,42.0,6.0,0.0,Oct-1998,699.0,277
+21000.0,10.75,Credit card refinancing,Shop manager,2 years,AK,B4,9.27,5325.0,78.9,4.0,0.0,Jun-2008,684.0,998
+16225.0,13.98,Credit card refinancing,IT Analyst,2 years,TN,C1,24.32,4744.0,61.1,13.0,4.0,Jan-1999,699.0,372
+25000.0,22.15,Business,Account Executive,5 years,CO,E5,33.61,6004.0,33.1,8.0,6.0,Oct-1989,709.0,805
+9850.0,16.99,Debt consolidation,proprietor,8 years,NC,D3,35.25,4881.0,53.1,8.0,2.0,Aug-1965,679.0,275
+9000.0,12.74,Car financing,Materials specialist,2 years,WA,C1,29.64,5719.0,53.0,2.0,4.0,Jun-2003,669.0,982
+20000.0,23.13,Other,Service Manager,10+ years,CA,F1,9.65,1073.0,18.7,10.0,0.0,Dec-1994,689.0,956
+23000.0,6.92,Debt consolidation,Staff Nurse,9 years,OH,A4,24.12,3700.0,38.8,8.0,2.0,Sep-1980,724.0,454
+12000.0,8.19,Credit card refinancing,Sales,9 years,AZ,A5,10.04,25202.0,43.8,12.0,10.0,May-2002,759.0,853
+19200.0,30.75,Debt consolidation,Special Agent,2 years,MO,F5,19.78,14662.0,32.0,6.0,1.0,Feb-2003,694.0,633
+3075.0,18.25,Debt consolidation,EMT,2 years,CA,E1,39.6,3416.0,9.6,4.0,0.0,May-2009,674.0,928
+14375.0,7.49,Debt consolidation,medical claims adjuster,2 years,CA,A4,26.07,1668.0,23.7,10.0,1.0,Nov-1996,764.0,917
+32950.0,9.67,Debt consolidation,Teacher,< 1 year,OR,B1,18.85,48415.0,8.4,5.0,9.0,Jan-1998,819.0,971
+10000.0,7.21,Home improvement,OWNER,10+ years,CA,A3,20.25,59609.0,84.8,4.0,1.0,Oct-1988,689.0,925
+6000.0,12.49,Debt consolidation,Buyer,9 years,TX,B5,24.6,18843.0,71.2,9.0,3.0,Nov-1995,704.0,760
+23500.0,9.99,Debt consolidation,Performance Manager Analyst,3 years,IL,B3,24.53,21670.0,22.2,6.0,1.0,Sep-2002,754.0,601
+40000.0,19.03,Debt consolidation,Analyst,10+ years,CA,D3,20.09,23340.0,0.0,11.0,1.0,Jan-2007,829.0,935
+8625.0,10.99,Debt consolidation,Teacher,1 year,SC,B4,22.32,10620.0,101.7,3.0,1.0,Jun-2001,684.0,291
+15000.0,10.99,Debt consolidation,laborer,10+ years,MI,B4,17.98,5685.0,24.5,13.0,4.0,Mar-1996,754.0,498
+23900.0,17.27,Credit card refinancing,Secretary,10+ years,NY,D2,14.26,2708.0,84.6,7.0,1.0,Apr-1992,709.0,114
+25000.0,15.31,Consolidation,Siemens,10+ years,FL,C2,14.91,15232.0,69.5,4.0,2.0,Jul-1995,689.0,337
+10000.0,17.14,Home improvement,Banker,< 1 year,VA,D4,11.65,1866.0,61.8,5.0,0.0,Aug-1998,669.0,223
+15000.0,15.88,Credit card refinancing,Lowpensky Moulding,10+ years,CA,C4,7.79,3585.0,92.2,5.0,1.0,Dec-1993,664.0,945
+10650.0,11.49,Moving and relocation,operations,< 1 year,IL,B5,18.62,9846.0,24.3,7.0,0.0,Oct-2002,674.0,606
+18000.0,12.12,credit card consolidation,Dr. Miguel Ferrer,9 years,FL,B3,19.49,2668.0,66.2,11.0,0.0,Jul-2001,684.0,334
+16000.0,6.62,Credit card refinancing,Dietitian,10+ years,PA,A2,20.1,14010.0,32.0,9.0,3.0,Mar-1995,744.0,190
+17500.0,14.49,Debt consolidation,Teacher,10+ years,TX,C4,17.73,12207.0,46.7,7.0,1.0,Apr-1998,694.0,760
+18000.0,13.53,Debt Consolidation Loan,CEO,5 years,OR,B5,19.95,13477.0,31.6,10.0,0.0,Jan-1981,699.0,974
+10625.0,13.67,debt relief,service technician,10+ years,MI,B5,21.68,2234.0,68.7,8.0,1.0,Jul-2001,664.0,481
+19325.0,16.02,Debt consolidation,District Produce Supervisor,10+ years,TN,C5,35.8,12149.0,62.2,7.0,2.0,Sep-2006,704.0,378
+20175.0,12.49,Debt consolidation,Administrative,10+ years,IN,B5,10.23,17090.0,53.2,6.0,3.0,Nov-2001,679.0,471
+1000.0,18.25,Debt consolidation,PTA,2 years,KY,D3,30.92,14349.0,49.5,8.0,1.0,Aug-2007,679.0,403
+35000.0,9.17,Debt consolidation,Investigator,4 years,NY,B1,17.01,22892.0,52.4,15.0,4.0,Dec-1996,719.0,117
+10000.0,6.62,bill pay,Supply Quality Engineer,3 years,CA,A2,20.68,24654.0,74.1,10.0,6.0,Oct-1994,674.0,917
+12000.0,10.99,Credit card refinancing,IT Account Administrator,4 years,MD,B4,22.93,8060.0,74.3,7.0,0.0,Nov-2006,704.0,208
+30000.0,19.99,Credit card refinancing,IT Specialist,3 years,AZ,E1,24.07,9462.0,43.9,12.0,5.0,Aug-1998,694.0,856
+6400.0,13.49,Credit card refinancing,RN,10+ years,NY,C2,21.66,12291.0,25.2,15.0,1.0,Jan-1995,684.0,132
+35000.0,18.55,Debt consolidation,Associate Operations Director,10+ years,IL,E2,10.74,6767.0,97.0,6.0,0.0,Mar-1982,664.0,605
+20000.0,21.67,Other,Dual Rate Pit Manager,10+ years,NV,E5,32.83,18130.0,92.5,5.0,4.0,Jul-1995,669.0,891
+7000.0,6.89,Debt consolidation,Truck Driver,1 year,FL,A3,20.73,10460.0,22.6,7.0,1.0,Jan-2009,694.0,322
+13600.0,15.61,Other,Retainer Representative,< 1 year,NY,D1,21.03,2441.0,93.3,6.0,0.0,Apr-2001,689.0,113
+13000.0,13.35,Debt consolidation,Budget and Financial Analyst,10+ years,CO,C2,16.44,18025.0,60.1,9.0,5.0,Jul-1983,749.0,800
+21075.0,29.69,Credit card refinancing,Surgical technician,3 years,TN,F2,23.86,14725.0,89.4,5.0,1.0,Nov-2000,679.0,385
+12000.0,5.32,Debt consolidation,Administrative Assistant,10+ years,NJ,A1,19.45,994.0,11.9,20.0,0.0,Sep-1999,799.0,071
+25000.0,13.49,Credit card refinancing,Civil Engineer,9 years,CA,C2,14.35,29090.0,54.3,11.0,2.0,Aug-2004,694.0,902
+15500.0,12.79,Debt consolidation,Battery Processor,2 years,IL,C1,23.78,39947.0,35.0,1.0,1.0,Oct-1995,704.0,605
+24000.0,18.99,Debt consolidation,journeyman,10+ years,NY,D4,27.53,8584.0,55.4,3.0,1.0,Feb-1998,684.0,130
+35000.0,9.17,Debt consolidation,Director,8 years,RI,B2,18.77,62017.0,94.0,4.0,5.0,Feb-1994,739.0,028
+5000.0,12.49,Debt consolidation,Supervisor,10+ years,NY,B5,25.94,4648.0,63.2,17.0,0.0,Oct-1975,699.0,104
+20000.0,11.99,Debt consolidation,Accounts Payable,10+ years,OH,B5,21.41,1422.0,11.4,5.0,5.0,Feb-2005,724.0,440
+19575.0,18.25,Other,Client Services Manager,8 years,AZ,D3,30.06,12054.0,31.2,5.0,1.0,Feb-2004,684.0,853
+15925.0,13.35,Debt consolidation,Test Technician,6 years,CA,C2,25.37,3585.0,81.8,6.0,0.0,Nov-1997,699.0,950
+30000.0,19.42,Debt consolidation,President,10+ years,FL,D3,10.04,37255.0,100.4,2.0,0.0,Sep-2004,664.0,334
+12000.0,6.39,Credit card refinancing,General Manager,2 years,OK,A2,17.91,3618.0,43.5,7.0,1.0,May-1997,679.0,740
+15000.0,15.49,Debt consolidation,SVP,10+ years,CA,C4,6.63,15115.0,36.6,7.0,1.0,Mar-2000,699.0,926
+7500.0,9.93,Debt consolidation,Project Manager,10+ years,NJ,B2,10.85,6175.0,10.5,5.0,0.0,Aug-2006,694.0,070
+24200.0,19.19,Debt consolidation,Clinic Supervisor,5 years,WA,E3,22.28,6419.0,101.3,5.0,0.0,Sep-1992,694.0,983
+14000.0,12.99,Credit card refinancing,Senior Accountant,4 years,VA,C2,8.85,2218.0,38.2,12.0,0.0,Jul-2007,679.0,222
+4000.0,6.68,Debt consolidation,Forman,6 years,MN,A3,6.56,37156.0,83.2,2.0,1.0,Nov-2006,739.0,553
+32000.0,13.33,Debt consolidation,"CIO, Vice President",6 years,CT,C3,13.22,5981.0,43.2,9.0,0.0,Mar-1989,729.0,066
+30000.0,20.5,Credit card refinancing,Senior Director Global Programs,8 years,NY,E1,16.32,24701.0,93.7,5.0,1.0,Aug-2001,674.0,109
+3200.0,13.33,Debt consolidation,Technician,3 years,HI,C3,28.46,4005.0,79.0,4.0,0.0,Jan-2006,674.0,968
+11200.0,6.49,Debt consolidation,Flight attendant,6 years,TX,A2,14.01,7674.0,36.0,3.0,1.0,Oct-1994,704.0,773
+6025.0,9.99,Debt consolidation,Financial Advisor,9 years,MA,B3,6.49,4401.0,86.6,5.0,0.0,Oct-2005,674.0,021
+4000.0,12.74,Debt consolidation,OB Coordinator Billing Dept.,8 years,TN,C1,18.24,4103.0,83.2,6.0,0.0,Sep-2006,664.0,370
+5300.0,15.02,Debt consolidation,Group Leader,10+ years,MI,C3,21.7,4792.0,7.2,6.0,0.0,Apr-2011,664.0,490
+34800.0,16.24,Credit Card Consulidation,Director,10+ years,NJ,C5,11.27,7546.0,94.3,4.0,2.0,Nov-1999,704.0,087
+12000.0,14.65,Debt consolidation,IT Analyst II,3 years,MN,C5,22.13,6561.0,94.8,5.0,0.0,Mar-2001,674.0,554
+16575.0,23.43,Debt consolidation,Architect,3 years,NY,F1,9.15,2077.0,76.4,6.0,0.0,Nov-2007,674.0,112
+17875.0,8.9,Credit Card Consolidation,Express Employment Professionals,6 years,CA,A5,9.48,1298.0,43.1,14.0,0.0,Jun-2006,729.0,950
+31000.0,16.55,Debt consolidation,consultant,2 years,OH,D2,13.74,17591.0,57.3,10.0,6.0,Dec-2003,694.0,431
+6500.0,5.32,Home improvement,Physical Therapist,< 1 year,CO,A1,17.46,32558.0,1.7,4.0,2.0,Jun-2000,844.0,814
+1000.0,9.17,Debt consolidation,Teacher,10+ years,GA,B2,24.05,43902.0,98.9,2.0,0.0,Apr-1990,669.0,319
+20000.0,12.29,Debt consolidation,SDC Teacher,3 years,CA,C1,20.98,6481.0,44.3,7.0,0.0,May-2000,694.0,917
+30000.0,19.89,Debt consolidation,Field Mechanic,1 year,IL,E3,20.52,8456.0,75.9,5.0,0.0,Nov-2004,674.0,604
+10000.0,12.69,Debt consolidation,Real Estate Manager,3 years,CA,C2,14.43,9294.0,77.0,7.0,1.0,Apr-1988,664.0,902
+6025.0,16.99,Car financing,IT Supervisor,10+ years,MA,D3,9.2,15718.0,69.2,5.0,3.0,Oct-1997,669.0,027
+25000.0,15.99,Debt consolidation,Construction Coordinator 28+ years,10+ years,OK,D2,18.07,30260.0,64.0,10.0,4.0,Oct-1983,724.0,744
+22000.0,5.32,Debt consolidation,RN,10+ years,FL,A1,7.7,12445.0,20.8,15.0,6.0,Oct-1994,734.0,344
+6000.0,16.02,Other,Medical Assistant,10+ years,NH,C5,24.75,2249.0,48.2,7.0,1.0,Dec-2002,689.0,032
+10000.0,30.84,Debt consolidation,Controller,2 years,TX,G2,15.26,9340.0,50.2,10.0,2.0,Jul-2006,674.0,782
+24000.0,16.78,Recovery Please,GC Services LP,10+ years,TX,C5,14.08,9298.0,58.9,9.0,3.0,Mar-1997,689.0,773
+19425.0,16.55,Credit card refinancing,"Special Education,Occupational Therapist",2 years,MN,D2,29.65,17085.0,68.3,7.0,0.0,May-2000,679.0,551
+3250.0,15.61,Other,DENTAL ASSISTANT,6 years,MD,C5,13.63,687.0,52.7,10.0,0.0,Mar-1998,664.0,207
+5600.0,11.39,Debt consolidation,Customer Service,3 years,FL,B3,13.42,3619.0,16.6,5.0,0.0,Jan-1989,664.0,321
+9500.0,7.91,Credit card refinancing,Production Editor,3 years,IL,A5,15.82,6483.0,73.8,4.0,0.0,Jan-2001,704.0,606
+12000.0,9.17,Credit card refinancing,Bartender,5 years,NY,B2,11.44,5878.0,68.4,3.0,0.0,Sep-2007,694.0,113
+18000.0,7.49,Credit card refinancing,Underwriter,5 years,TX,A4,16.37,13313.0,39.9,10.0,4.0,Oct-1999,709.0,754
+20000.0,14.31,Credit card refinancing,Medical Biller,9 years,MA,C4,19.37,2786.0,58.5,7.0,0.0,Jan-2009,709.0,021
+8000.0,6.89,Debt consolidation,Commercial Credit Analyst,3 years,RI,A3,22.24,4568.0,35.0,13.0,1.0,May-2002,734.0,029
+10100.0,18.24,Credit card refinancing,Tech,8 years,IN,D5,29.05,4091.0,63.8,4.0,0.0,Apr-2005,694.0,466
+40000.0,6.08,Debt consolidation,Associate Director,< 1 year,CA,A2,10.12,140592.0,47.0,2.0,5.0,Dec-1995,719.0,940
+5000.0,10.99,Credit card refinancing,ASM,10+ years,NY,B4,24.66,12582.0,38.6,13.0,1.0,Jan-2004,704.0,117
+21000.0,19.72,Financial Relief,Romano's Macaroni Grill,5 years,AZ,D5,9.64,8693.0,40.6,11.0,1.0,Aug-2000,679.0,857
+16000.0,8.39,Home improvement,Client Relationship Manager,2 years,CT,A5,17.25,1985.0,32.1,15.0,0.0,Oct-2005,729.0,066
+2500.0,6.89,Debt consolidation,service mgr.,8 years,OK,A3,16.56,3397.0,67.8,12.0,1.0,Nov-1973,699.0,730
+20125.0,21.98,Consolidation/Engagement Ring,State of California- DGS,5 years,CA,E4,17.63,6633.0,50.8,13.0,0.0,Jul-1995,674.0,958
+15000.0,12.12,Pay it down,Indoor Environmental Services,6 years,CA,B3,29.44,5440.0,37.4,8.0,0.0,Sep-2005,714.0,956
+20000.0,8.67,Debt consolidation,Teacher/athletic trainer,10+ years,NJ,B1,17.53,18099.0,36.3,9.0,2.0,Sep-1998,739.0,074
+10000.0,16.29,Vacation,Project Manager,7 years,CA,D1,35.95,3781.0,87.4,9.0,0.0,May-2009,694.0,919
+23925.0,23.43,Debt consolidation,E5,10+ years,GA,F1,34.93,7225.0,94.5,7.0,0.0,Dec-2003,674.0,319
+8400.0,12.13,Debt consolidation,Business Analyst II,10+ years,ME,B5,19.89,20106.0,90.0,8.0,1.0,Sep-2002,664.0,042
+6100.0,13.99,Credit card refinancing,Derrickhand,8 years,UT,C4,9.99,8428.0,28.3,4.0,0.0,Mar-2005,694.0,841
+24000.0,14.46,Debt consolidation,"Vice President, Data Center Technology",10+ years,NJ,C4,14.01,5151.0,96.6,9.0,0.0,Oct-2005,664.0,070
+35000.0,25.65,Debt consolidation,"Sr. Specialist, Account Management",5 years,CA,F3,16.73,7865.0,64.7,9.0,5.0,Sep-2000,669.0,900
+15125.0,18.24,Debt consolidation,Grocery Clerk,10+ years,WA,D5,13.69,2550.0,88.2,4.0,0.0,Oct-1998,684.0,981
+26250.0,17.57,Debt consolidation,Registered Nurse,4 years,WI,D4,31.1,9834.0,72.5,8.0,1.0,Aug-2000,709.0,530
+30000.0,11.99,Home improvement,Director of Operations,10+ years,LA,B5,22.92,13150.0,68.6,4.0,1.0,Aug-2006,694.0,705
+30000.0,12.79,Credit card refinancing,Office manager,1 year,MO,C1,26.15,22228.0,35.6,10.0,3.0,Apr-1999,719.0,633
+4800.0,10.75,Debt consolidation,Teller,1 year,FL,B4,26.27,6311.0,64.9,4.0,2.0,Jun-2004,684.0,337
+35000.0,13.98,Credit card refinancing,Budget Analyst,10+ years,VA,C1,21.11,74710.0,84.6,6.0,6.0,Nov-1988,729.0,223
+8000.0,10.15,Debt consolidation,iOS Software Developer,< 1 year,CA,B2,7.04,3161.0,73.1,3.0,0.0,Nov-2006,684.0,926
+15000.0,8.49,Credit card refinancing,Account Clerk,10+ years,MA,B1,6.52,23529.0,39.4,10.0,6.0,Jan-1987,689.0,019
+10000.0,13.49,Debt consolidation,Labor,1 year,IL,C2,28.92,10853.0,48.5,3.0,4.0,Sep-1999,699.0,616
+20000.0,5.32,Credit card refinancing,Attorney,7 years,MN,A1,27.09,14380.0,45.5,8.0,0.0,Aug-1999,699.0,554
+10000.0,16.59,Home improvement,Digital Press Operator,10+ years,PA,D1,10.84,11261.0,37.3,6.0,4.0,Nov-2003,674.0,152
+14400.0,11.49,Debt consolidation,City carrier,10+ years,CA,B5,23.45,4716.0,67.3,8.0,0.0,Jul-2001,669.0,900
+2000.0,14.47,Debt Consolidation,Teacher on Loan,7 years,CA,C2,23.69,8674.0,65.7,4.0,0.0,Sep-2005,674.0,954
+5500.0,9.99,Credit card refinancing,EKG monitor tech,3 years,TN,B3,8.13,1190.0,54.5,7.0,0.0,May-2006,714.0,381
+12000.0,7.9,Credit card refinancing,Police Officer,10+ years,NY,A4,25.37,3711.0,36.6,15.0,1.0,Dec-1999,714.0,132
+4000.0,6.97,Credit card refinancing,Machine operation,9 years,GA,A3,20.8,1146.0,28.9,14.0,0.0,Dec-2006,714.0,301
+20000.0,9.8,Debt consolidation,Manager,5 years,WA,B3,23.45,2864.0,9.6,12.0,1.0,May-1992,729.0,984
+11000.0,5.32,Debt consolidation,QA Specialist,8 years,FL,A1,13.92,1149.0,17.4,13.0,1.0,Jan-1994,779.0,330
+10000.0,6.62,Credit card refinancing,TranSystems Corp,10+ years,MO,A2,13.74,13469.0,54.1,8.0,3.0,Jul-1977,729.0,640
+15000.0,14.07,Debt consolidation,Bookkeeper/Property Manager,7 years,WA,C3,15.58,18898.0,29.6,11.0,3.0,Dec-1970,679.0,980
+23900.0,9.99,Debt consolidation,Lead-Inside Sales,9 years,LA,B3,26.74,3705.0,28.7,13.0,1.0,Jun-2000,734.0,700
+22000.0,10.99,Credit card refinancing,Sonographer,2 years,TN,B4,5.97,2774.0,53.4,7.0,0.0,Sep-2002,749.0,383
+10000.0,16.99,Debt consolidation,Paralegal,< 1 year,NY,D1,19.23,1470.0,35.3,19.0,0.0,Mar-1997,689.0,110
+35000.0,17.86,Debt consolidation,Sr IT Analyst,10+ years,CA,D5,5.12,32499.0,39.6,8.0,3.0,Oct-1994,714.0,956
+15000.0,18.25,Debt consolidation,Legal Secretary,3 years,CA,D3,31.07,1657.0,66.1,15.0,0.0,Jun-2001,674.0,960
+30000.0,7.9,Credit card refinancing,Regional Sales Manager,10+ years,GA,A4,18.53,13876.0,72.8,6.0,7.0,Jul-2000,744.0,300
+21000.0,19.92,Credit card refinancing,Job Superintendent,3 years,NH,D3,33.21,4525.0,65.0,11.0,0.0,Jan-2008,664.0,038
+7200.0,12.99,Debt consolidation,Vice President / Agent,8 years,FL,C1,12.38,2596.0,34.2,10.0,0.0,May-2004,669.0,331
+1000.0,11.47,Home improvement,Customer Service,4 years,CT,B5,7.49,674.0,77.7,8.0,2.0,May-1985,664.0,064
+5200.0,5.32,Home improvement,Nurse Director,5 years,LA,A1,15.49,11496.0,6.0,9.0,2.0,Nov-1998,764.0,700
+7900.0,21.99,Debt consolidation,WFO,3 years,OH,F1,28.42,3910.0,94.0,4.0,0.0,Aug-2009,684.0,444
+20000.0,16.24,Debt consolidation,ESE Lead Teacher,10+ years,FL,C5,23.5,12010.0,68.5,13.0,2.0,Jan-1994,694.0,336
+18400.0,9.17,Debt consolidation,RN,< 1 year,CA,B2,13.18,3445.0,75.2,6.0,2.0,Mar-1998,689.0,953
+14000.0,18.84,Debt consolidation,Physical therapist,10+ years,NC,E2,18.45,13679.0,54.8,11.0,2.0,May-1993,674.0,286
+16000.0,11.14,Debt consolidation,Carnegie Mellon University,3 years,PA,B2,9.77,5352.0,84.5,3.0,1.0,Aug-1999,714.0,152
+1000.0,18.99,Other,Surgical Services Manager,5 years,IL,D3,29.48,10490.0,72.6,15.0,1.0,Dec-1995,684.0,624
+12000.0,12.69,Debt consolidation,owner,6 years,NY,C2,35.92,25864.0,37.0,10.0,1.0,Feb-2008,719.0,105
+15000.0,9.99,Debt consolidation,Account Executive,10+ years,NY,B3,12.67,2383.0,70.5,7.0,0.0,May-2001,694.0,100
+7000.0,11.53,Other,Security Supervisor,10+ years,MO,B5,29.15,3234.0,70.8,8.0,3.0,Nov-1999,669.0,631
+18000.0,17.99,Debt consolidation,Auto technician,3 years,FL,D2,21.15,2202.0,33.0,7.0,0.0,Jun-2005,679.0,331
+27500.0,14.49,Debt consolidation,Registered Nurse,6 years,CO,C4,28.06,19978.0,64.3,10.0,1.0,Oct-1995,669.0,802
+20000.0,16.02,Debt consolidation,Manager,10+ years,OH,C5,19.27,8563.0,55.5,8.0,1.0,Oct-1990,714.0,453
+9000.0,7.89,Debt consolidation,Material supervisor,10+ years,FL,A5,10.11,709.0,42.1,20.0,0.0,Sep-2002,679.0,329
+20000.0,14.49,Debt consolidation,Staff/Registered nurse,8 years,IL,C4,15.39,2584.0,48.2,14.0,0.0,Nov-2005,699.0,606
+31275.0,15.31,Debt consolidation,manager,10+ years,TX,C5,34.35,3843.0,67.2,19.0,0.0,Jun-1981,674.0,760
+25000.0,5.32,Debt consolidation,Logistics Operations Manager,2 years,TX,A1,10.07,1904.0,24.2,18.0,1.0,Jan-1976,734.0,786
+14825.0,17.77,Business Loan,"Bess, Blougouras & Freyberg P.A.",4 years,FL,D1,11.37,27548.0,55.8,4.0,3.0,Jun-2001,699.0,329
+16500.0,18.55,Credit Card Payoff,Health Research Analyst 5,4 years,FL,D2,24.16,21923.0,88.2,8.0,1.0,Nov-2001,674.0,335
+10000.0,5.32,Debt consolidation,Pct,10+ years,FL,A1,12.31,8554.0,7.8,14.0,5.0,Aug-1999,804.0,346
+24000.0,10.99,Debt consolidation,Senior utility worker,10+ years,CT,B3,12.81,14392.0,33.9,8.0,1.0,Jan-2001,769.0,064
+20000.0,18.45,Debt consolidation,Manager,10+ years,FL,D2,2.38,1127.0,37.6,3.0,2.0,Sep-2003,674.0,347
+15000.0,11.53,Debt consolidation,Campaign Manager,3 years,FL,B5,22.04,3252.0,39.6,4.0,0.0,Nov-1989,704.0,330
+10000.0,20.0,Home buying,HVAC Technican,5 years,AZ,D4,18.25,12671.0,78.2,3.0,0.0,Mar-1996,704.0,851
+12000.0,9.71,Credit card refinancing,ja air center,10+ years,IL,B1,17.22,10378.0,32.3,9.0,4.0,Aug-2001,744.0,601
+11000.0,11.49,Debt consolidation,Professional Services Team Lead,5 years,IL,B5,24.67,4424.0,41.4,4.0,0.0,Jan-2006,754.0,601
+10000.0,16.46,Debt consolidation,Carpenter,5 years,WI,C5,20.65,12413.0,53.0,14.0,2.0,Sep-2011,684.0,535
+13150.0,22.15,Debt consolidation,Tester,1 year,FL,E5,5.16,579.0,64.3,5.0,0.0,Oct-2006,684.0,331
+5000.0,9.67,Debt consolidation,Regional Controller,10+ years,FL,B1,5.71,1683.0,7.8,16.0,0.0,Sep-2001,789.0,330
+10000.0,11.49,Credit card refinancing,Project manager,2 years,NC,B5,4.96,30749.0,64.6,4.0,0.0,May-2006,694.0,282
+12000.0,14.48,Debt consolidation,Supervisor,10+ years,MI,C5,31.66,9335.0,36.6,8.0,1.0,Jun-2005,684.0,490
+24000.0,5.32,Credit card refinancing,Engineering Manager,2 years,CA,A1,7.86,4462.0,35.9,7.0,0.0,Sep-1992,784.0,920
+10000.0,10.99,Debt consolidation,Certified nurses assistant,< 1 year,TX,B3,12.69,924.0,30.3,10.0,0.0,Sep-2003,689.0,761
+4800.0,11.49,Debt consolidation,Accounting Assistant,10+ years,IL,B5,15.49,25473.0,82.2,3.0,1.0,Apr-2009,669.0,604
+5500.0,17.09,Vacation,Manager,10+ years,CA,D1,14.33,4496.0,11.3,8.0,0.0,Mar-1995,714.0,937
+10900.0,16.99,Debt consolidation,Test Engineer,10+ years,TX,D3,7.58,2202.0,46.3,8.0,0.0,May-2004,684.0,751
+6400.0,11.53,Debt consolidation,Mail Lead,8 years,WI,B5,11.56,971.0,67.0,8.0,4.0,Mar-1989,664.0,547
+40000.0,11.05,Debt consolidation,Practice Leader,3 years,NJ,B4,16.63,4980.0,18.4,11.0,0.0,May-1996,799.0,077
+22000.0,8.59,Credit card refinancing,Office Manager,10+ years,NH,A5,16.17,6650.0,52.0,15.0,1.0,Jul-1996,679.0,030
+12000.0,13.99,Home improvement,teacher,7 years,IL,C4,18.87,10422.0,104.8,6.0,3.0,Jan-1987,679.0,614
+16000.0,9.17,Debt consolidation,data scientist,3 years,OH,B2,19.83,18189.0,91.1,10.0,5.0,Jul-2001,679.0,430
+9200.0,5.32,Credit card refinancing,Electronic Tech,10+ years,MS,A1,4.86,29653.0,29.1,5.0,5.0,Jan-1987,764.0,395
+17875.0,25.57,Debt consolidation,Legal Admin Assistant,10+ years,MN,F5,23.31,15755.0,67.5,6.0,2.0,Aug-2000,684.0,554
+8300.0,14.33,debit,fedex,7 years,CA,C1,13.64,2242.0,77.3,5.0,0.0,May-2001,669.0,904
+20000.0,12.99,Debt consolidation,Medical Lab Technician,10+ years,KY,C1,18.98,15683.0,36.3,7.0,3.0,Dec-2000,709.0,401
+12000.0,12.69,Debt consolidation,Software Developer,2 years,CA,C2,10.06,1443.0,55.5,12.0,0.0,Jun-2003,664.0,926
+3625.0,14.49,Debt consolidation,CVICU Registered Nurse,2 years,GA,C4,24.7,4670.0,95.1,7.0,0.0,Oct-2000,714.0,303
+18000.0,12.49,Debt consolidation,OPERATOR,10+ years,MS,B5,11.31,10916.0,58.6,12.0,2.0,Dec-1993,689.0,395
+8975.0,20.99,Debt consolidation,Salon manager,3 years,MA,E4,31.54,4806.0,100.1,3.0,0.0,Jun-2002,664.0,016
+17000.0,11.99,Credit card refinancing,Registered Respiratory Therapist,10+ years,AR,B3,14.14,31576.0,93.3,6.0,4.0,Dec-1999,709.0,720
+23000.0,16.99,Debt consolidation,Administrate Assistant,10+ years,VA,D1,23.81,3617.0,79.9,10.0,0.0,Dec-2002,689.0,229
+26100.0,13.59,Debt consolidation,Teacher,10+ years,OR,C2,18.43,2282.0,18.4,9.0,0.0,May-1990,729.0,974
+3000.0,12.79,Medical expenses,Charge Nurse,< 1 year,VA,C1,26.25,7203.0,30.8,9.0,0.0,May-2002,689.0,220
+8000.0,8.49,Debt consolidation,HR,1 year,GA,B1,17.91,12505.0,64.7,7.0,0.0,Oct-1995,664.0,300
+10000.0,19.53,Credit card refinancing,Lead Csr,3 years,IL,D5,40.8,2509.0,39.3,20.0,0.0,Nov-2000,689.0,605
+12000.0,11.99,NoStressLoan,Balfour Beatty Communities,7 years,CO,B3,28.63,20139.0,76.1,5.0,3.0,Nov-2008,664.0,809
+20000.0,16.99,Debt consolidation,Truck driver,6 years,NY,D1,15.07,1218.0,39.4,14.0,0.0,Aug-2005,699.0,100
+6000.0,11.39,Debt consolidation,Truck Driver,5 years,NC,B3,6.12,499.0,16.6,8.0,1.0,Mar-1993,664.0,282
+27600.0,16.99,Debt consolidation,Durability Engineer,1 year,NC,D3,15.94,28308.0,79.9,7.0,2.0,Jan-2000,694.0,274
+5000.0,7.26,Debt consolidation,Treasury Officer,4 years,IL,A4,10.25,4753.0,6.3,8.0,0.0,Aug-2006,759.0,606
+6800.0,24.08,Other,IT Systems Analyst,10+ years,GA,F2,22.56,11884.0,91.7,12.0,4.0,Apr-1994,669.0,301
+30000.0,12.69,Other,Assistant Vice President,3 years,TX,C2,8.27,11723.0,32.5,6.0,0.0,Dec-2003,669.0,797
+5000.0,11.47,Debt consolidation,Stylist,2 years,NJ,B5,11.57,508.0,26.4,17.0,0.0,Mar-1994,699.0,077
+20950.0,18.99,Debt consolidation,security guard,2 years,NV,E1,18.09,1736.0,29.5,18.0,1.0,Oct-1976,674.0,897
+6000.0,14.65,Debt consolidation,Workforce Management Technical Coordinat,5 years,MI,C5,16.61,12469.0,56.3,6.0,2.0,Sep-2003,669.0,486
+25000.0,6.08,Debt consolidation,teacher,10+ years,WA,A2,13.88,62359.0,26.3,5.0,3.0,Aug-1998,769.0,982
+4125.0,19.52,Debt consolidation,State of Nevada/Enterprise IT Services,< 1 year,NV,D4,16.16,1702.0,48.3,6.0,0.0,Jul-2000,699.0,895
+20000.0,10.49,Debt consolidation,Phlebomist,1 year,VA,B2,16.0,1639.0,52.0,12.0,0.0,Mar-1995,684.0,228
+22000.0,7.69,Credit card refinancing,Director of I.T.,10+ years,CA,A4,9.6,5705.0,56.7,7.0,0.0,Mar-2002,714.0,910
+8000.0,13.33,Other,Physician assistant,4 years,KY,C3,6.56,20576.0,2.5,7.0,3.0,Jan-1987,709.0,405
+15000.0,9.17,Credit card refinancing,researcher III,10+ years,IL,B2,24.77,33762.0,78.7,5.0,2.0,Apr-2001,709.0,629
+24000.0,13.56,Debt consolidation,General Manager,10+ years,MD,C1,23.31,6197.0,55.2,11.0,0.0,May-2010,694.0,207
+4200.0,17.99,Credit card refinancing,Office Manager,< 1 year,OR,D2,18.6,9598.0,30.8,5.0,0.0,Sep-2003,669.0,972
+21000.0,18.85,Debt Consolidation,Fuji Film,10+ years,TN,D3,19.13,3232.0,52.5,4.0,0.0,Sep-2002,684.0,374
+26150.0,11.49,Debt consolidation,QUALITY CONTROL MANAGER,< 1 year,MI,B5,26.82,4589.0,35.2,10.0,0.0,Apr-1989,719.0,481
+9600.0,14.65,Credit card refinancing,charge nurse,10+ years,CA,C5,5.54,562.0,76.8,13.0,0.0,Feb-2004,664.0,910
+7800.0,6.49,Debt consolidation,Membership Services,8 years,AR,A2,21.37,1969.0,8.6,8.0,0.0,Mar-1994,829.0,958
+18225.0,21.85,Debt consolidation,Supervisor,10+ years,MD,D5,37.31,27232.0,86.8,8.0,2.0,Jan-1993,684.0,219
+16000.0,11.53,Car financing,Teacher,8 years,CA,B5,9.77,47417.0,60.4,5.0,2.0,Jan-2002,674.0,928
+8000.0,5.32,Other,Medical Biller,9 years,MD,A1,10.21,44463.0,9.3,4.0,2.0,Oct-1995,809.0,208
+30000.0,20.0,Home buying,Recruiter,10+ years,TX,D4,27.9,4091.0,33.3,10.0,0.0,Apr-1996,679.0,754
+18250.0,17.99,Debt consolidation,Laborer,7 years,IL,D2,9.56,9851.0,78.8,8.0,2.0,Jan-2009,669.0,612
+16000.0,8.18,Debt consolidation,Account manager,3 years,NV,B1,23.62,12170.0,66.4,3.0,0.0,Sep-2003,719.0,895
+24000.0,6.49,Debt consolidation,Real Estate Agent,10+ years,TX,A2,9.06,3323.0,31.9,10.0,0.0,Oct-1981,704.0,770
+4000.0,7.99,Other,Owner,10+ years,CA,A5,16.79,36694.0,45.0,8.0,4.0,Mar-2002,709.0,910
+30000.0,17.47,Home improvement,claims adjuster,10+ years,AL,D1,37.93,4574.0,64.7,20.0,1.0,Dec-1996,684.0,365
+30000.0,19.2,Credit cards,RN,10+ years,TN,D3,26.08,6898.0,61.3,22.0,5.0,Nov-1990,714.0,373
+10500.0,17.76,Bill Consolidation,Parole/Probation Officer II,3 years,AR,D1,20.44,21880.0,38.0,9.0,2.0,Aug-2000,689.0,722
+12500.0,13.59,Debt consolidation,Quality Engineer,1 year,MI,C2,29.15,10307.0,44.0,14.0,1.0,Feb-2006,694.0,493
+16000.0,12.99,Home improvement,teacher,10+ years,SC,B5,6.5,7646.0,49.8,20.0,4.0,Jun-1987,669.0,297
+15000.0,8.39,Credit card refinancing,VP Finance,10+ years,NJ,A5,8.06,42022.0,53.6,8.0,3.0,Feb-1970,669.0,070
+14800.0,12.99,Debt consolidation,Manager,4 years,NC,B5,26.29,12442.0,55.7,3.0,2.0,Jul-1993,709.0,286
+4000.0,8.19,Home improvement,Rn,< 1 year,AZ,A5,22.73,13364.0,67.7,11.0,3.0,Sep-2000,704.0,864
+11600.0,19.42,Debt consolidation,Production worker,< 1 year,CA,D3,49.1,6781.0,39.8,10.0,0.0,Jan-2014,674.0,958
+24000.0,6.89,Credit card refinancing,Manager of Construction Procurement,10+ years,MA,A3,7.09,21693.0,50.7,8.0,2.0,Apr-1997,734.0,019
+24000.0,10.99,Freedom,Cardiac sonographer,5 years,AZ,B2,15.66,24462.0,77.7,8.0,1.0,Sep-1997,704.0,852
+6000.0,13.49,Home improvement,Paper Converting Operator,10+ years,WI,C2,17.92,10770.0,45.0,2.0,1.0,Sep-2005,674.0,549
+5000.0,7.35,Debt consolidation,Representative,10+ years,GA,A4,24.07,9548.0,20.7,6.0,3.0,Mar-1992,819.0,398
+10800.0,8.18,Credit card refinancing,Account Services Representative,3 years,FL,B1,18.02,2159.0,68.0,4.0,0.0,Jan-2002,674.0,337
+5700.0,15.61,HI LOAN,OPERATOR/LABORER,8 years,CA,C3,8.33,45357.0,8.8,5.0,3.0,Oct-2003,719.0,923
+19050.0,25.8,Debt consolidation,Assistant manager,6 years,TN,G1,34.62,7991.0,83.1,5.0,0.0,Jan-2005,664.0,383
+4000.0,19.99,Other,Cashier,1 year,IN,D5,33.7,4575.0,80.9,5.0,0.0,Jul-2002,704.0,466
+11200.0,16.29,Debt consolidation,Quality Assurance Analyst,8 years,NM,D2,29.73,20196.0,79.0,4.0,1.0,Sep-2002,694.0,881
+24000.0,7.89,Debt consolidation,Broker,8 years,IL,A5,17.18,5613.0,65.7,9.0,0.0,Jan-2000,674.0,606
+16675.0,9.99,Debt consolidation,clinical laboratory scientist,5 years,CA,B3,26.31,2533.0,25.0,23.0,0.0,Jul-1987,714.0,900
+12000.0,8.49,Debt consolidation,Purchasing-Business,10+ years,NJ,B1,18.61,2148.0,63.0,8.0,1.0,Mar-2004,679.0,080
+8000.0,10.99,Debt consolidation,Substation Tech,10+ years,NM,B3,10.27,14538.0,57.0,8.0,4.0,Aug-2001,694.0,882
+20000.0,12.69,Debt consolidation,Dir of Operations,4 years,CA,C2,26.77,7847.0,66.7,10.0,0.0,May-1998,729.0,902
+9500.0,13.49,Debt consolidation,Claims Adjuster,< 1 year,TX,C2,18.43,2441.0,71.9,6.0,0.0,Oct-2004,674.0,750
+14000.0,19.72,Credit cards,Midway Chevrolet,8 years,AZ,D5,16.7,16112.0,50.8,10.0,1.0,Dec-2001,669.0,853
+35000.0,8.24,Other,Project Manager,2 years,SC,B1,22.83,15100.0,63.6,7.0,3.0,Sep-2001,669.0,290
+23625.0,8.39,Home improvement,iLab Administrator,10+ years,IN,B1,2.51,2239.0,0.0,1.0,0.0,Dec-2004,784.0,473
+20000.0,10.42,Debt consolidation,Equipment Manager,10+ years,HI,B3,3.74,2726.0,16.2,3.0,0.0,Dec-1992,714.0,968
+10000.0,11.99,Debt consolidation,Executive Assistant,3 years,MN,B5,16.78,5662.0,20.2,15.0,0.0,Nov-2004,684.0,551
+14000.0,12.99,pay it off faster,lead tech,8 years,GA,B4,16.69,7085.0,38.9,14.0,3.0,Feb-2001,704.0,302
+15000.0,14.47,Miracle Debt Free 5Yr Plan Loan,Attorney,3 years,MI,C2,10.21,9854.0,70.4,5.0,1.0,Sep-1997,669.0,489
+8000.0,7.97,Debt consolidation,Attorney,1 year,FL,A5,15.2,8941.0,48.1,4.0,0.0,Mar-2008,719.0,330
+10000.0,12.74,Credit card refinancing,Electrician,< 1 year,CA,C1,29.97,6488.0,33.6,7.0,0.0,Apr-2005,669.0,930
+15000.0,6.72,Debt consolidation,Growth and Performance Manager,5 years,MO,A3,29.2,9905.0,17.3,21.0,1.0,Oct-2006,749.0,652
+8650.0,14.33,Debt consolidation,Manager,10+ years,PA,C5,22.91,35785.0,76.0,8.0,7.0,May-1996,674.0,191
+16200.0,16.99,Debt consolidation,School Bus Driver Instructor Coordinator,10+ years,PA,D3,31.74,13789.0,40.8,5.0,1.0,Sep-1990,744.0,151
+4625.0,12.49,Credit card refinancing,Administrative Assistant,2 years,OH,B4,6.09,2199.0,53.6,8.0,0.0,Feb-2002,664.0,452
+12000.0,15.61,Debt consolidation,Regusered Nurse,7 years,NJ,D1,16.27,6451.0,82.2,4.0,0.0,Jan-2003,684.0,080
+15000.0,7.89,Credit card refinancing,Care Review Clinician,< 1 year,CA,A5,15.0,3676.0,71.1,7.0,0.0,Sep-2004,699.0,952
+8800.0,8.18,Credit card refinancing,crew Leader,1 year,OR,B1,17.95,3921.0,61.0,6.0,0.0,Apr-2007,724.0,973
+30000.0,7.26,Debt consolidation,Financial Advisor,6 years,MA,A4,13.24,10636.0,61.5,9.0,0.0,May-1985,719.0,024
+35000.0,7.97,Debt consolidation,Owner,3 years,CA,A5,2.47,2409.0,30.6,7.0,0.0,Apr-2000,704.0,947
+17000.0,12.12,Debt Consolidation,State of Florida,6 years,FL,B3,17.82,4214.0,35.6,15.0,0.0,Nov-1999,709.0,349
+15000.0,12.99,Debt consolidation,Nurse Practitioner,4 years,WI,B5,14.3,12263.0,14.5,11.0,5.0,Oct-1998,689.0,531
+18000.0,9.44,Debt consolidation,Project Assitant,2 years,NY,B1,25.37,4438.0,22.8,14.0,0.0,Dec-2002,724.0,100
+15000.0,12.12,Credit Card Debt Payoff Loan,Wealth Financial Group,6 years,IL,B3,17.83,6171.0,56.6,7.0,0.0,Aug-2002,709.0,600
+11500.0,12.69,Debt consolidation,Distribution Tech,10+ years,WI,C2,8.51,1868.0,97.3,4.0,0.0,Feb-2004,694.0,532
+10625.0,20.49,Other,straight line painting,6 years,SC,E1,30.43,24490.0,58.1,9.0,5.0,May-2006,684.0,291
+24000.0,9.17,Debt consolidation,Practice Lead,1 year,SC,B2,13.7,53191.0,81.3,3.0,7.0,Jul-2003,674.0,292
+7225.0,19.19,Other,RN,10+ years,LA,E3,4.43,48825.0,67.2,2.0,2.0,Sep-1994,679.0,710
+12000.0,9.17,Credit card refinancing,Claims Adjuster,10+ years,CA,B2,21.6,4486.0,28.4,9.0,0.0,May-1997,679.0,928
+18050.0,21.18,Debt consolidation,Supervisor,10+ years,FL,E3,31.38,16572.0,91.3,7.0,1.0,Jun-2001,684.0,325
+16000.0,11.67,Debt consolidation,Corrections Sergeant,7 years,NJ,B4,24.35,2349.0,10.5,19.0,0.0,Mar-2000,684.0,088
+8000.0,10.99,Debt consolidation,Sales Manager,< 1 year,NY,B4,13.9,3332.0,88.1,6.0,0.0,Nov-2001,689.0,113
+3000.0,14.33,Medical expenses,A/P Specialist,10+ years,FL,C5,20.6,1206.0,85.0,7.0,0.0,Dec-1997,679.0,330
+21000.0,13.56,Debt consolidation,Rsch Comm & Outreach Manager,4 years,MN,C1,24.34,2177.0,31.1,13.0,0.0,Mar-1997,679.0,550
+4500.0,14.33,Debt consolidation,ILT Inc,10+ years,NY,C1,20.52,6801.0,73.1,13.0,2.0,Feb-1999,679.0,123
+24925.0,20.49,2012help,ARINC,10+ years,NY,E1,5.03,42467.0,91.9,3.0,2.0,Oct-1987,679.0,117
+12000.0,7.12,Debt consolidation,Global Industry manager - automotive,10+ years,MI,A3,17.57,23667.0,77.3,9.0,6.0,Apr-1987,674.0,481
+8875.0,12.12,Debt Free!,The Home Depot,10+ years,WA,B3,13.57,28508.0,25.1,4.0,7.0,Nov-1985,704.0,982
+25525.0,8.19,Debt consolidation,Educational Diagnostician,10+ years,TX,A5,30.32,3203.0,42.3,11.0,2.0,Mar-1994,724.0,778
+35000.0,15.59,Debt consolidation,Director of IT,10+ years,AL,D1,24.97,14929.0,37.6,11.0,3.0,Sep-2000,714.0,365
+13600.0,14.47,Consolidate,Management Analyst,10+ years,CA,C2,22.62,44303.0,40.1,10.0,4.0,Mar-1996,689.0,907
+26450.0,17.27,Debt consolidation,Accountant,4 years,CA,D2,15.22,1592.0,47.1,18.0,0.0,Sep-1999,684.0,940
+9600.0,14.65,Home improvement,Collector 2,2 years,KY,C5,7.09,1788.0,11.9,4.0,2.0,May-1998,724.0,425
+15000.0,17.27,Business,owner,10+ years,CA,D2,10.75,818.0,26.8,16.0,0.0,Feb-1999,689.0,890
+19500.0,14.16,Debt consolidation,Fleet Manager,5 years,MN,C2,12.99,3600.0,152.7,4.0,6.0,Oct-1996,669.0,554
+11100.0,7.9,Debt Consolidation,Allstate Insurance,10+ years,AZ,A4,11.94,40161.0,64.7,5.0,7.0,Mar-2000,704.0,857
+18000.0,6.62,Debt Loan,KickBack Points,9 years,AZ,A2,4.76,39775.0,26.4,5.0,3.0,Aug-1997,764.0,851
+6000.0,10.16,Credit card refinancing,Citizens carpet services,7 years,UT,B1,6.31,810.0,48.0,7.0,0.0,Sep-2003,694.0,841
+20000.0,7.26,Credit card refinancing,Waiter,10+ years,NY,A4,14.03,1368.0,48.6,12.0,0.0,Jan-2003,689.0,117
+20000.0,14.64,Home improvement,OTR Driver,3 years,TX,C3,27.89,12787.0,85.8,2.0,3.0,Jul-1986,684.0,799
+20000.0,12.49,Debt consolidation,Minister of music,10+ years,AL,B5,16.75,14193.0,49.5,12.0,4.0,Jan-2002,704.0,350
+6400.0,7.39,Debt consolidation,Accountant 1,2 years,CA,A4,22.51,1255.0,14.3,16.0,0.0,Mar-2006,759.0,912
+12000.0,7.12,Debt consolidation,Administration,10+ years,VA,A3,21.76,16297.0,48.5,9.0,3.0,Feb-2001,709.0,238
+10000.0,11.55,All In One,Bishop's Glen Health Care Center,2 years,FL,B3,26.19,4351.0,70.8,7.0,0.0,Jan-2008,674.0,321
+16000.0,6.49,Debt consolidation,Project Engineer,5 years,VA,A2,17.91,6252.0,4.7,3.0,0.0,Jul-2003,699.0,223
+10000.0,8.9,Debt consolidation,FolioDynamix,4 years,CA,A5,14.89,16843.0,25.5,5.0,5.0,Mar-1992,719.0,959
+15300.0,14.16,Debt consolidation,teacher,1 year,IL,C2,18.16,13129.0,41.9,12.0,9.0,Sep-2000,699.0,600
+6000.0,5.32,Debt consolidation,Provider Claims Adjusments,2 years,NM,A1,8.8,11911.0,22.6,14.0,3.0,Dec-1989,824.0,871
+40000.0,15.05,Credit card refinancing,Major,10+ years,CA,C4,21.55,72294.0,76.1,3.0,1.0,Feb-2004,724.0,925
+11600.0,15.61,Debt consolidation,Military Police,8 years,SC,D1,21.09,4193.0,39.8,8.0,0.0,Jan-2007,709.0,294
+12650.0,6.62,Credit card refinancing,Spring Ridge Academy,5 years,AZ,A2,13.4,18521.0,56.1,6.0,5.0,May-1989,759.0,863
+3000.0,11.44,Other,Chief credit officer for real estate,2 years,NJ,B4,4.08,86612.0,60.1,4.0,7.0,Dec-2001,684.0,088
+12000.0,14.99,Debt consolidation,"Manager, Network Infrastructure Architec",3 years,FL,C5,25.06,41110.0,68.7,11.0,4.0,Jul-1998,714.0,330
+33750.0,16.02,Debt consolidation,HUMAN RESOURCE ADMIN,10+ years,NJ,C5,28.45,8277.0,71.0,17.0,2.0,Jun-1985,694.0,070
+10200.0,13.99,Debt consolidation,realtor,7 years,AZ,C4,7.3,20382.0,6.9,9.0,2.0,Oct-2002,684.0,852
+25000.0,6.24,Debt consolidation,"Director of Quality, Release, Devops",< 1 year,UT,A2,18.29,19561.0,68.4,8.0,4.0,Mar-1997,709.0,840
+10400.0,19.99,Debt consolidation,Truck Driver,10+ years,NM,D4,17.71,3965.0,26.8,10.0,4.0,Feb-1995,709.0,874
+3000.0,12.69,Debt consolidation,cashier,10+ years,CA,C2,38.25,1413.0,15.7,24.0,0.0,Jan-2002,764.0,908
+10000.0,11.39,Debt consolidation,Audit Senior Manager,10+ years,NY,B3,2.58,3358.0,21.8,7.0,3.0,Mar-2002,744.0,100
+6300.0,7.69,Debt consolidation,New Business Analyst,10+ years,VA,A4,17.35,10196.0,5.4,10.0,4.0,Mar-1993,759.0,232
+35000.0,12.69,Debt consolidation,Financial Anaylst,10+ years,NY,C2,9.78,26592.0,58.2,16.0,4.0,May-2000,664.0,103
+10000.0,10.9,Debt consolidation,General manager,10+ years,AL,B4,24.86,1401.0,16.6,12.0,0.0,Apr-2008,709.0,351
+14000.0,9.99,Debt consolidation,SOC Lead Analyst,3 years,MO,B3,11.17,1615.0,94.2,9.0,0.0,Feb-2005,684.0,650
+3950.0,17.99,Debt consolidation,Risk Management Technician,4 years,CA,D2,17.46,686.0,5.8,11.0,1.0,Aug-2007,684.0,932
+21500.0,21.99,Debt consolidation,line leader,6 years,PA,F1,18.98,2953.0,65.8,8.0,0.0,Aug-2008,684.0,185
+25000.0,18.99,Debt consolidation,Service Tech,10+ years,NE,D3,17.46,3212.0,67.1,9.0,0.0,Dec-1995,669.0,681
+18000.0,16.55,Debt consolidation,Foreman,10+ years,MI,D2,17.77,25589.0,64.0,3.0,3.0,Jul-2005,669.0,498
+28000.0,26.3,Credit card refinancing,truck driver,7 years,OK,E5,13.81,4153.0,32.8,9.0,4.0,Dec-1995,724.0,740
+22500.0,5.32,Debt consolidation,Executive Assistant,10+ years,IN,A1,18.78,4808.0,16.7,8.0,2.0,Jun-1988,739.0,461
+11325.0,12.69,Credit card refinancing,customers service staff,6 years,FL,C2,29.8,1276.0,51.2,9.0,0.0,May-1997,674.0,333
+10200.0,12.12,Debt No More!,Merlin Entertainments,3 years,NY,B3,6.72,5351.0,91.8,2.0,0.0,Dec-1995,684.0,112
+25000.0,15.99,Debt consolidation,Office manager,10+ years,OH,D2,19.2,18053.0,71.2,13.0,2.0,May-1994,674.0,442
+15000.0,12.39,Debt consolidation,driver,5 years,OH,C1,26.21,15061.0,48.9,8.0,2.0,Sep-2002,704.0,451
+35000.0,14.09,Pool Loan,Philips Healthcare,1 year,FL,B5,0.84,35062.0,10.6,8.0,10.0,May-1998,824.0,347
+7200.0,7.89,Home improvement,Membership Representative,2 years,AL,A5,17.23,12352.0,92.2,2.0,1.0,Nov-2004,719.0,366
+20000.0,18.25,Debt consolidation,Engineer,10+ years,NM,E1,24.99,13335.0,50.7,2.0,3.0,Aug-2002,664.0,881
+20000.0,11.99,Debt consolidation,Systems Manager,2 years,CA,B5,9.55,52033.0,58.1,5.0,8.0,Dec-1998,664.0,952
+35000.0,14.31,Credit card refinancing,Owner,3 years,AZ,C4,22.21,11652.0,37.4,8.0,6.0,Jun-1992,699.0,863
+10250.0,18.25,Credit card refinancing,Lead Direct Support Person,5 years,MN,E1,39.92,3208.0,45.1,5.0,0.0,Aug-2002,714.0,563
+7000.0,5.32,Car financing,ISP,9 years,CT,A1,19.22,2729.0,43.8,9.0,0.0,Nov-2000,694.0,060
+7675.0,8.39,Debt consolidation,Warehouse Supervisor,2 years,TX,A5,21.31,6158.0,29.0,2.0,0.0,Sep-2008,724.0,750
+12000.0,10.16,LENDING,"ADA L. PENATE,D.D.S.,P.A.",10+ years,FL,B1,28.1,1294.0,34.5,16.0,2.0,Jun-1985,694.0,331
+32000.0,7.89,Debt consolidation,PHYSICIAN,10+ years,MI,A5,16.98,55176.0,38.7,9.0,6.0,Mar-1989,754.0,481
+17275.0,17.57,Debt consolidation,President,10+ years,CO,D4,17.9,1998.0,63.2,14.0,0.0,Jun-1999,674.0,809
+6550.0,12.99,Debt consolidation,Senior Technician,2 years,WA,C1,14.08,18996.0,41.6,8.0,1.0,Feb-1987,724.0,985
+35000.0,7.89,Credit card refinancing,Office Manager,10+ years,NY,A5,6.77,24699.0,56.5,14.0,3.0,Sep-1995,729.0,119
+16000.0,13.67,Home improvement,Probation Officer,2 years,NE,C3,34.62,27503.0,69.4,7.0,4.0,Nov-2004,694.0,691
+8400.0,7.12,Credit card refinancing,assembler,10+ years,WI,A3,10.65,19358.0,21.1,8.0,2.0,Dec-2002,724.0,535
+5200.0,8.18,Home improvement,Teacher,9 years,MA,B1,7.22,5135.0,45.9,2.0,0.0,Dec-2001,674.0,027
+10000.0,13.67,Debt Consolidation,Executive Secretary,10+ years,IL,B5,18.45,3371.0,57.1,6.0,0.0,Sep-2000,664.0,606
+15000.0,24.99,Debt consolidation,Production Associate,5 years,MS,E4,17.28,28567.0,77.1,2.0,1.0,Jan-2010,719.0,386
+5000.0,12.79,Debt consolidation,Engineer,10+ years,UT,C1,18.44,1232.0,28.9,27.0,0.0,May-2004,674.0,844
+6000.0,11.99,Debt consolidation,Driver,2 years,FL,C1,13.28,2230.0,31.2,8.0,0.0,Nov-2006,664.0,320
+15000.0,12.69,Debt consolidation,Assistant Principal,10+ years,KY,C2,8.97,38868.0,66.9,2.0,4.0,Apr-1997,664.0,400
+20000.0,6.49,Other,Owner-Operator,10+ years,PA,A2,11.04,3586.0,22.3,8.0,2.0,Mar-1986,834.0,161
+12000.0,25.49,Debt consolidation,Bus driver,5 years,TX,E4,27.81,3233.0,11.8,8.0,0.0,Jun-2006,674.0,782
+14000.0,8.99,Debt consolidation,Captain,10+ years,NM,B1,16.14,20175.0,77.7,5.0,3.0,May-1996,664.0,882
+15000.0,12.29,Credit card refinancing,Used car director,1 year,TX,C1,21.5,7681.0,65.0,22.0,1.0,Sep-2007,679.0,774
+8000.0,13.65,Debt consolidation,sales associate,3 years,NY,C1,10.16,575.0,37.7,12.0,0.0,Sep-2010,724.0,107
+4500.0,14.49,Credit card refinancing,Dining Assistant,4 years,PA,C4,24.18,2820.0,86.2,6.0,0.0,Apr-1994,664.0,153
+3000.0,16.02,Credit card refinancing,Recreation Therapist II,10+ years,CA,C5,3.78,1711.0,20.3,7.0,2.0,Jul-1997,664.0,928
+9900.0,9.67,Credit card refinancing,TEACHER,7 years,NC,B1,11.97,1853.0,63.2,5.0,0.0,Oct-2001,684.0,275
+6025.0,15.31,Car financing,Production Worker,2 years,MA,C5,29.41,6730.0,65.1,5.0,0.0,Mar-2007,744.0,023
+11325.0,14.3,Pay off debt,Lead Agent,10+ years,VA,C1,16.52,864.0,30.2,13.0,7.0,Nov-1994,679.0,226
+35000.0,16.55,Credit card refinancing,Pension Consultant,5 years,NY,D2,28.12,3883.0,58.8,17.0,0.0,Jul-1993,724.0,123
+35000.0,12.62,Debt consolidation,Case Investigator,< 1 year,MI,C1,27.01,19351.0,7.9,1.0,2.0,Jul-1995,779.0,481
+10000.0,13.35,Credit card refinancing,Territory Sales,2 years,CA,C2,11.28,2425.0,81.0,7.0,1.0,Jan-1981,689.0,937
+12800.0,14.47,Debt consolidation,Transitional Nurse Liaison,1 year,IL,C2,15.66,1584.0,44.7,11.0,0.0,May-2004,694.0,605
+28000.0,9.67,Debt consolidation,Branch Manager,< 1 year,CO,B1,13.5,18611.0,39.6,13.0,4.0,Mar-2005,724.0,809
+8325.0,10.16,credit cards,jet blue,2 years,NY,B1,21.01,1604.0,43.0,5.0,0.0,May-2003,714.0,114
+9600.0,7.9,Credit card refinancing,Pharmacy Technician,2 years,MD,A4,21.82,9773.0,33.0,13.0,1.0,Nov-2008,734.0,216
+8000.0,8.39,Home improvement,Real estate,10+ years,CA,B1,11.52,1702.0,59.6,7.0,4.0,Mar-1991,669.0,926
+7525.0,19.99,Debt consolidation,Mechanic,1 year,AZ,E4,20.88,3916.0,42.9,3.0,3.0,Jun-1998,664.0,851
+8000.0,14.46,Debt consolidation,Critical Care Paramedic,4 years,TN,C4,28.97,8591.0,24.7,13.0,2.0,Sep-2004,714.0,385
+23000.0,15.99,Debt consolidation,Manager,8 years,LA,D2,21.76,17505.0,53.0,4.0,1.0,Nov-1994,709.0,708
+20000.0,17.27,Debt consolidation,Project Engineer,10+ years,WA,D2,19.98,31392.0,88.6,15.0,4.0,Aug-1984,664.0,980
+10300.0,8.18,Major purchase,R.N.,5 years,TX,B1,7.48,60547.0,19.0,2.0,1.0,Sep-2003,779.0,787
+3000.0,11.47,Other,Senior Patient Registrar,8 years,HI,B5,22.88,2864.0,47.6,12.0,1.0,Jul-2003,664.0,967
+25000.0,13.49,Debt consolidation,owner,5 years,CO,C2,3.61,29683.0,12.6,8.0,1.0,Sep-1987,699.0,809
+30000.0,23.99,Home improvement,Project Manager,6 years,CA,F3,21.1,3788.0,21.5,10.0,1.0,Jan-2000,709.0,920
+18000.0,6.03,consolidation,Director,10+ years,CT,A1,7.26,25007.0,11.5,11.0,6.0,May-1999,784.0,060
+16975.0,16.49,Debt consolidation,Medical Laboratory Technician,4 years,OH,D3,30.65,2951.0,51.1,8.0,0.0,Feb-2004,694.0,444
+15000.0,6.49,Credit card refinancing,Senior Consultant,7 years,WI,A2,21.63,12498.0,40.3,10.0,3.0,Oct-2001,729.0,549
+21000.0,19.99,Debt consolidation,Supervisory Mission Support,7 years,WA,D4,20.57,14462.0,85.0,12.0,4.0,Oct-1999,664.0,982
+30000.0,13.99,Credit card refinancing,Juvenile Court Magistrate,< 1 year,TN,C4,22.57,4514.0,73.5,8.0,1.0,Nov-1994,739.0,373
+18000.0,13.35,Debt consolidation,Reimbursement Counselor,3 years,NC,C2,18.91,1877.0,44.9,9.0,0.0,Oct-1991,664.0,281
+14400.0,7.49,Debt consolidation,Phlebotomist,1 year,MA,A4,14.99,5857.0,75.7,5.0,4.0,May-2001,679.0,015
+8325.0,14.64,Credit card refinancing,Program Manager/Consultant,5 years,VA,C3,13.21,9435.0,43.6,18.0,0.0,Dec-2003,704.0,201
+14275.0,7.9,NEEDS TO CONSOLIDATE ASAP!,VILLAGE OF ELBURN,10+ years,IL,A4,18.78,13952.0,84.0,12.0,3.0,Sep-2001,729.0,605
+15000.0,12.69,Credit card refinancing,Metallurgical Engineer,1 year,CT,C2,19.22,5345.0,74.5,11.0,0.0,Sep-1998,679.0,067
+15000.0,12.99,Debt consolidation,General Manager,10+ years,TX,B5,9.64,48266.0,55.6,4.0,4.0,Apr-1997,714.0,762
+19000.0,5.32,Credit card refinancing,Director Engineering,10+ years,GA,A1,6.37,58531.0,40.3,2.0,4.0,Jan-2006,779.0,301
+11850.0,22.45,Debt consolidation,distribution clerk,10+ years,NY,E5,37.76,1889.0,31.6,20.0,0.0,Aug-1990,684.0,146
+15000.0,12.12,Set for Great Start!!,BP Biofuels,10+ years,CA,B3,16.56,4708.0,57.9,12.0,0.0,Jul-1998,684.0,921
+7600.0,24.74,Debt consolidation,Valet parking supervisor,3 years,FL,E3,26.66,2796.0,9.5,5.0,0.0,May-2013,754.0,330
+3000.0,17.86,Other,road driver,10+ years,MS,D5,35.01,6440.0,44.2,6.0,0.0,Oct-1997,684.0,386
+3850.0,10.64,Credit card refinancing,Analyst,2 years,MD,B4,9.89,2946.0,41.2,6.0,0.0,Nov-2011,714.0,212
+3300.0,16.02,Major purchase,billing specialist,2 years,GA,C5,20.43,3612.0,44.9,5.0,0.0,Feb-2007,684.0,301
+16800.0,14.65,Debt consolidation,Maintance Manager,10+ years,CA,C5,19.22,1445.0,79.3,14.0,0.0,Jan-2007,684.0,926
+24375.0,19.72,Get Out of Debt,Life Care Center Of Banner Elk,5 years,NC,D5,26.44,9142.0,71.6,9.0,3.0,May-2003,699.0,287
+9000.0,8.18,Debt consolidation,Client Partner,3 years,FL,B1,17.46,4873.0,15.8,11.0,0.0,Jul-2006,759.0,331
+6325.0,7.49,Debt consolidation,Structural designer,< 1 year,GA,A4,13.2,2525.0,29.6,7.0,0.0,Apr-1998,704.0,300
+9750.0,15.8,PERSONAL,JACMEL JEWELRY,10+ years,NY,C3,18.73,1285.0,44.0,10.0,0.0,Apr-2003,694.0,100
+14000.0,15.05,Debt consolidation,Customer Service,10+ years,NC,C4,33.47,15484.0,57.9,9.0,2.0,Aug-1990,704.0,276
+30900.0,13.35,Credit card refinancing,Manager,1 year,TN,C2,20.7,47047.0,42.0,3.0,5.0,Jul-1988,784.0,370
+5000.0,9.17,Debt consolidation,Electrition,8 years,TN,B2,11.19,21897.0,98.5,2.0,1.0,Mar-2001,719.0,383
+15000.0,8.39,Debt consolidation,Charge nurse,< 1 year,NY,A5,12.73,2737.0,69.6,4.0,0.0,Aug-1995,704.0,114
+8000.0,13.68,IRS,JPMorgan,10+ years,NY,C1,5.31,2314.0,43.9,8.0,0.0,Sep-1995,694.0,112
+3000.0,17.57,Debt consolidation,Investigator,10+ years,FL,D4,30.79,33105.0,97.7,3.0,1.0,Jul-2004,709.0,328
+20000.0,21.99,Debt consolidation,Senior mortgage banker,2 years,AZ,F1,7.52,7270.0,44.8,6.0,0.0,Nov-1988,694.0,852
+6400.0,11.53,Debt consolidation,Safety Specialist IV,10+ years,TX,B5,5.76,37493.0,47.7,4.0,4.0,Aug-1989,669.0,786
+35000.0,7.97,Credit card refinancing,Clinical Pharmacist,2 years,MN,A5,33.98,54896.0,32.2,6.0,1.0,Sep-2001,774.0,551
+16000.0,11.99,Debt consolidation,Secretary,10+ years,NJ,B5,16.2,22730.0,67.3,9.0,1.0,Jun-2001,669.0,088
+25000.0,14.65,Debt consolidation,General Manager,3 years,CA,C5,16.96,4261.0,46.8,12.0,3.0,Aug-2002,674.0,900
+4000.0,11.47,Major purchase,sales manager,9 years,RI,B5,24.1,32778.0,43.6,5.0,2.0,Sep-2005,674.0,028
+14000.0,18.25,Debt consolidation,Administrative Assistant,1 year,NY,E1,36.32,2590.0,81.3,12.0,0.0,Sep-2008,694.0,140
+22400.0,11.14,consolidate,Georgia Power,10+ years,GA,B2,17.24,7312.0,76.2,9.0,1.0,Jan-1993,684.0,310
+18000.0,6.03,Pergola-Landscape,Hsbc,10+ years,IL,A1,11.27,26829.0,12.9,5.0,3.0,Aug-1999,794.0,605
+12100.0,18.55,Credit card refinancing,Assistant Vice President,10+ years,IL,E2,19.62,3165.0,51.8,21.0,6.0,Jul-1996,669.0,606
+11000.0,14.65,Debt consolidation,supervisor,10+ years,PA,C5,30.58,6205.0,74.3,4.0,0.0,Jul-2008,679.0,163
+12000.0,18.54,Car financing,assembly,3 years,KS,E1,20.64,2187.0,1.7,17.0,0.0,Oct-2009,754.0,672
+31300.0,22.4,debtpayloan,Project Manager,10+ years,MA,E3,22.75,14231.0,80.8,5.0,0.0,Feb-2000,694.0,020
+35000.0,24.08,Debt consolidation,SVP/Manager,10+ years,MN,F2,24.36,27341.0,59.1,11.0,2.0,Aug-1997,674.0,553
+13000.0,9.99,Debt consolidation,Corporate Compliance Director,9 years,TN,B3,8.94,26102.0,28.0,10.0,5.0,Nov-1993,709.0,371
+33200.0,20.99,Debt consolidation,Radiologic technologist,10+ years,CA,E5,31.82,3778.0,89.3,13.0,0.0,Nov-2004,694.0,910
+30675.0,27.79,Debt consolidation,Safety Coordinator,6 years,CA,F5,17.34,4165.0,19.8,8.0,0.0,May-1999,699.0,930
+4000.0,14.46,Green loan,driver,5 years,NY,C4,9.66,2164.0,55.5,9.0,0.0,Aug-2004,664.0,112
+24000.0,7.35,Home improvement,Police Captain,6 years,CO,A4,17.24,20465.0,31.3,5.0,2.0,Aug-1996,709.0,810
+24000.0,12.35,Debt Consolidate,St Jude,4 years,TX,B4,14.88,24418.0,79.3,10.0,4.0,Dec-1990,689.0,754
+5000.0,7.99,Credit card refinancing,Junior Environmental Geologist,< 1 year,CO,A4,17.56,9646.0,61.3,6.0,0.0,Aug-2009,684.0,800
+21000.0,10.99,Credit card refinancing,PHYSCIAN SCHEDULER,10+ years,CA,B4,16.4,2679.0,63.8,9.0,0.0,Oct-2000,709.0,907
+11400.0,9.8,Credit card refinancing,LPN,5 years,MO,B3,28.34,2429.0,11.0,18.0,0.0,Apr-1996,714.0,648
+12000.0,6.49,Credit card refinancing,Attorney,6 years,NY,A2,12.29,33937.0,66.8,12.0,2.0,Jul-1990,714.0,103
+10175.0,16.55,Debt consolidation,Sales Support,5 years,CO,D2,27.52,3407.0,26.6,5.0,0.0,Sep-2003,674.0,801
+11375.0,15.61,Other,retail sales rep,< 1 year,MI,D1,18.24,1549.0,62.1,3.0,0.0,May-2007,704.0,498
+6000.0,6.03,Debt consolidation,Sales,6 years,MN,A1,14.92,14386.0,18.4,14.0,3.0,Jun-1994,739.0,553
+1800.0,7.35,Debt consolidation,warehouse associate,3 years,IL,A4,22.22,21633.0,0.0,1.0,4.0,Nov-2004,744.0,609
+4000.0,17.97,Debt consolidation,Inspector,2 years,VA,D1,10.15,4658.0,99.4,2.0,0.0,Jan-2006,689.0,201
+35000.0,18.24,Debt consolidation,SVP Residential Lending,< 1 year,CA,D5,15.26,6835.0,47.1,12.0,1.0,Apr-1992,724.0,902
+15500.0,9.17,Credit card refinancing,teacher,1 year,OK,B1,18.97,4427.0,86.7,4.0,0.0,Jul-1998,664.0,740
+3000.0,24.5,Home improvement,Risk Management Coordinator,10+ years,NC,F3,7.8,11015.0,88.5,12.0,3.0,Jan-1976,674.0,273
+10000.0,7.26,Credit card refinancing,Application Developer,2 years,NY,A4,10.61,7315.0,90.5,2.0,0.0,Mar-1995,739.0,109
+17600.0,7.69,Debt consolidation,Inside Sales,2 years,CA,A4,27.24,6643.0,74.4,7.0,0.0,Dec-2004,719.0,951
+4800.0,12.49,Other,Teacher,10+ years,NJ,B5,9.53,3192.0,41.2,15.0,1.0,Mar-1991,669.0,086
+4400.0,13.33,Debt consolidation,HR Administrator,< 1 year,OH,C3,11.37,3976.0,80.2,2.0,0.0,Sep-2009,684.0,430
+10000.0,9.44,Credit card refinancing,"Supervisor, Data Engineer",5 years,MN,B1,15.66,2335.0,26.1,4.0,0.0,Oct-2005,769.0,551
+5000.0,8.38,Credit card refinancing,Correctional Officer,4 years,TX,B1,5.77,9587.0,36.9,9.0,2.0,Sep-1990,669.0,773
+4650.0,18.25,Credit card refinancing,Life Coach 1,< 1 year,AK,D3,6.25,1525.0,86.7,3.0,0.0,Oct-2012,664.0,995
+7000.0,16.02,Debt consolidation,Aerospace Engineer,4 years,CA,C5,14.07,2315.0,46.6,11.0,0.0,Aug-2010,694.0,902
+10000.0,6.97,Credit card refinancing,Principal,5 years,NV,A3,17.87,24295.0,56.0,9.0,2.0,Jan-1991,694.0,894
+4500.0,14.49,Debt consolidation,DESIGNER,4 years,CA,C4,18.87,7511.0,98.4,4.0,0.0,Apr-2009,669.0,900
+9000.0,7.89,Credit card refinancing,Sales,4 years,IL,A5,23.54,19039.0,96.5,5.0,3.0,Sep-1999,699.0,600
+7500.0,15.02,Home improvement,Document Analyst,10+ years,PA,C3,10.89,7893.0,28.3,6.0,3.0,Feb-1995,699.0,152
+20400.0,7.62,Lumping Proper and LC Loan,Sales Manager,5 years,MA,A3,9.69,23772.0,13.9,6.0,1.0,Sep-2006,779.0,018
+8000.0,13.98,Home improvement,CTO,1 year,CA,C3,16.26,19959.0,54.2,14.0,1.0,Nov-1996,699.0,913
+35000.0,15.59,Debt consolidation,Director,3 years,NJ,C5,20.69,42883.0,76.4,10.0,6.0,Jan-2002,669.0,080
+30000.0,14.08,Credit card refinancing,Pit manager,10+ years,CA,C3,17.88,24981.0,34.9,8.0,4.0,Jan-1998,729.0,956
+24000.0,9.99,Debt consolidation,Internet Sales Manager,7 years,TX,B3,15.33,19838.0,56.9,7.0,4.0,Sep-2005,684.0,762
+5000.0,15.1,Debtconsolidate,Administrator,10+ years,TX,C2,15.91,7700.0,93.1,5.0,0.0,Nov-1993,694.0,760
+14375.0,18.99,Debt consolidation,customer service,10+ years,KS,E1,15.36,9183.0,86.5,7.0,2.0,Oct-2001,684.0,664
+12000.0,11.99,Home improvement,General Foreman,2 years,OR,C1,14.57,21295.0,29.6,9.0,5.0,Aug-2005,719.0,970
+35000.0,11.99,Credit card refinancing,Registered Nusre,5 years,FL,B5,11.1,24568.0,50.4,8.0,4.0,Mar-2003,699.0,334
+3000.0,7.21,Debt consolidation,Teacher,10+ years,NY,A3,13.97,15549.0,40.9,8.0,4.0,Aug-2002,709.0,146
+10200.0,10.99,Debt consolidation,Store manager,10+ years,CA,B4,14.87,28674.0,66.2,10.0,4.0,Feb-1993,694.0,926
+9000.0,6.99,Credit card refinancing,Computer Systems Analyst,7 years,FL,A2,6.52,12676.0,30.7,7.0,4.0,Nov-2004,699.0,337
+16000.0,15.8,Credit card refinancing,Dyncorp International LLC,5 years,TN,C3,26.39,8592.0,85.2,5.0,1.0,Sep-1996,699.0,370
+7000.0,7.89,Debt consolidation,Manager,< 1 year,CA,A5,11.65,5665.0,58.2,9.0,1.0,Jan-1987,694.0,954
+24000.0,15.05,Credit card refinancing,Registered Nurse,3 years,CA,C4,18.55,4095.0,42.4,19.0,0.0,May-2010,664.0,940
+6000.0,15.41,Debt consolidation,Service delivery manager,< 1 year,CA,D1,10.62,3322.0,11.5,8.0,0.0,Oct-2009,694.0,900
+16050.0,13.33,Debt consolidation,Regional Manager,7 years,CA,C3,14.04,41215.0,37.4,5.0,7.0,May-2002,699.0,935
+3175.0,16.55,Debt consolidation,Parts sales shop work,10+ years,MI,D2,11.31,3198.0,75.0,2.0,0.0,Aug-2002,674.0,483
+10000.0,10.99,Home improvement,owner,< 1 year,PA,B4,8.79,773.0,33.1,13.0,0.0,Mar-2004,704.0,186
+3000.0,7.07,Other,Inventory Control,5 years,NC,A2,15.78,36576.0,34.1,1.0,2.0,Dec-1997,734.0,275
+25000.0,12.99,Debt consolidation,HR Employee Services Adminstrator,10+ years,VA,C1,15.98,22360.0,43.7,8.0,5.0,Sep-1997,769.0,236
+13000.0,13.98,Debt consolidation,Project Engineer,4 years,UT,C3,6.9,1642.0,53.8,7.0,0.0,Aug-2000,684.0,840
+10000.0,17.27,Moving loan,Hyatt corporation- Andaz fifth avenue,2 years,NY,C5,5.6,1164.0,31.7,6.0,0.0,Jun-2008,714.0,112
+12575.0,10.99,Debt consolidation,Manage,6 years,PA,B3,17.1,34153.0,19.3,6.0,2.0,Aug-2004,734.0,195
+20000.0,13.33,Debt consolidation,telecommunications construction,< 1 year,AR,C3,13.99,3742.0,82.3,4.0,0.0,Dec-2004,664.0,720
+20000.0,13.11,Pay off cards plus waterheater,corelogic,3 years,CA,B4,9.1,44875.0,86.4,6.0,2.0,May-1998,704.0,956
+6400.0,9.17,Debt consolidation,Library Computer Support Specialist,7 years,MT,B2,14.76,9185.0,70.1,4.0,3.0,Oct-2003,704.0,594
+12000.0,8.39,Major purchase,Supervisor,10+ years,CO,B1,15.95,2347.0,25.7,8.0,3.0,Sep-2001,704.0,805
+15000.0,7.89,Other,Enterprise Architect,3 years,GA,A5,6.73,41610.0,13.5,3.0,6.0,Jul-2001,734.0,303
+15000.0,24.84,Other,Personal Training,2 years,NY,E3,22.19,11347.0,37.9,2.0,0.0,Feb-2009,674.0,114
+20000.0,10.99,Debt consolidation,Bookkeeper,8 years,OR,B3,17.09,2556.0,37.0,5.0,0.0,Aug-2001,714.0,970
+12600.0,17.57,Credit card refinancing,Nurse,1 year,CA,D4,35.7,2610.0,59.8,14.0,0.0,Dec-2006,664.0,917
+8500.0,13.49,Other,Senior Accountant,1 year,SC,C2,32.1,17102.0,46.8,12.0,1.0,Jun-2003,699.0,292
+2400.0,8.18,Debt consolidation,Manufacturing Engineer,5 years,FL,B1,2.07,65.0,0.8,5.0,1.0,May-2005,814.0,333
+14000.0,9.17,Home improvement,Senoir Property manager,10+ years,IN,B2,6.04,35813.0,25.5,4.0,3.0,Jan-2003,679.0,462
+8000.0,14.33,Debt consolidation,NYC Department of Education,7 years,NY,C1,11.32,5201.0,74.8,14.0,2.0,Jan-1979,674.0,114
+20000.0,11.99,becoming debt free,RETIRED,10+ years,CA,B3,10.13,22674.0,52.9,8.0,7.0,Sep-1964,699.0,922
+19200.0,20.49,Debt consolidation,soldier,10+ years,NC,E2,32.2,25526.0,84.0,1.0,1.0,Dec-1995,664.0,283
+14400.0,22.45,Major purchase,Sales Support,5 years,LA,E5,22.75,3614.0,56.9,9.0,0.0,Jun-2012,684.0,705
+12000.0,17.57,Debt consolidation,Administrative Assistant,2 years,CO,D4,29.98,19390.0,35.1,8.0,1.0,Jun-1983,689.0,800
+15500.0,20.0,Moving and relocation,Customer Service Representative,7 years,NY,D4,3.58,12966.0,51.1,5.0,0.0,Oct-2004,674.0,117
+8400.0,13.65,Debt consolidation,escrow assistant,2 years,CA,C1,8.25,383.0,29.0,12.0,3.0,Jul-2002,684.0,956
+30000.0,15.61,Debt consolidation,Maintenance leader,7 years,IL,D1,17.03,15142.0,78.1,4.0,2.0,May-2000,729.0,609
+20000.0,7.35,Debt consolidation,Dental hygienist,< 1 year,NJ,A4,24.22,1421.0,37.9,17.0,2.0,Jun-2003,734.0,087
+21725.0,17.57,Debt consolidation,Licensing Agent,1 year,MD,D2,11.22,44787.0,47.4,3.0,3.0,Jan-1997,734.0,217
+11425.0,13.99,Debt consolidation,Machinist,4 years,CT,C4,6.07,1304.0,63.1,6.0,0.0,Feb-2001,669.0,060
+12000.0,15.59,Debt consolidation,maintenance,< 1 year,AR,C5,25.95,8500.0,62.4,4.0,0.0,May-2007,714.0,723
+10175.0,17.27,Credit card debt consolidation,Black Elk Oil Refinery,5 years,WY,C5,18.29,3843.0,68.4,8.0,0.0,May-2006,669.0,827
+2800.0,11.14,Baby Steps to a Bright Future,SunLife+Financial,4 years,NC,B2,16.54,24427.0,41.5,8.0,3.0,Jul-1997,719.0,280
+8000.0,15.61,Credit card refinancing,Letter Carrier,10+ years,MA,D1,20.58,3940.0,39.2,5.0,1.0,Oct-2003,704.0,019
+10000.0,14.08,Other,Officer,10+ years,NY,C3,16.44,5543.0,41.5,8.0,0.0,Nov-2004,699.0,147
+35000.0,16.99,Debt consolidation,Owner,4 years,UT,D3,13.04,3624.0,36.5,9.0,4.0,Oct-2001,669.0,847
+6600.0,9.99,Other,police officer,10+ years,MI,B3,28.22,7150.0,84.6,6.0,0.0,Oct-2001,684.0,482
+21000.0,8.18,Debt consolidation,Officer,10+ years,TX,B1,29.51,28129.0,75.1,7.0,3.0,Aug-1993,719.0,750
+15000.0,7.99,Debt consolidation,Manager,1 year,TX,A5,21.76,3250.0,38.4,9.0,0.0,Jul-1999,754.0,752
+2400.0,17.77,Credit Card Payoff,Jobspring Partners,2 years,CA,D1,7.39,1828.0,88.8,4.0,0.0,Oct-2004,669.0,941
+6000.0,6.24,Major purchase,Field Specialist,10+ years,CA,A2,13.58,24172.0,59.9,8.0,3.0,Nov-1996,709.0,923
+2500.0,16.91,Debt consolidation,Police Sgt,10+ years,MD,C5,16.45,12801.0,37.7,21.0,3.0,Oct-2007,689.0,211
+24000.0,13.49,Debt consolidation,National Technical Support,3 years,NY,C2,13.87,21041.0,67.4,13.0,1.0,Aug-2004,684.0,100
+19000.0,23.99,Debt consolidation,Administrative Assistant,< 1 year,WA,F3,18.93,2409.0,72.8,4.0,0.0,May-2004,694.0,981
+21500.0,12.12,Credit Card Refinance,The State of Texas,5 years,TX,B3,27.32,13289.0,65.8,9.0,2.0,Apr-1998,714.0,774
+14400.0,18.99,Home improvement,Teacher,10+ years,TX,D4,23.57,10611.0,84.7,3.0,1.0,Aug-2002,684.0,755
+14000.0,7.89,Credit card refinancing,RN Clinical Applications Analyst,2 years,CA,A5,6.51,2533.0,49.2,6.0,1.0,Nov-2001,694.0,907
+12000.0,10.16,Home Improvement,Schneider Electric,5 years,CA,B1,19.45,67125.0,54.7,6.0,1.0,Sep-1995,699.0,944
+34475.0,16.24,Credit card refinancing,Clinical Supervisor,3 years,CA,C5,19.67,5457.0,52.8,8.0,2.0,Jun-1990,694.0,921
+6000.0,16.02,Debt consolidation,Administrative,10+ years,IN,C5,10.52,7018.0,53.8,8.0,1.0,May-2003,674.0,471
+7500.0,12.69,Other,Business Manager,4 years,MS,C2,18.13,23058.0,26.3,13.0,3.0,Jun-2002,689.0,397
+15525.0,11.47,Credit card refinancing,Admin Clerk,5 years,SC,B5,22.45,13939.0,99.3,2.0,0.0,Nov-1997,664.0,293
+20925.0,11.99,Debt consolidation,Teacher,10+ years,FL,B5,29.93,16775.0,3.4,9.0,6.0,Sep-1999,739.0,327
+35000.0,13.99,Debt consolidation,Director of Security,10+ years,GA,C4,17.34,3764.0,26.0,13.0,1.0,Nov-1993,719.0,303
+10800.0,14.08,Debt consolidation,Setup Technician,6 years,AL,C3,19.12,18422.0,60.4,7.0,1.0,Sep-2008,684.0,357
+10625.0,18.75,Medical expenses,Park Gramercy,6 years,NJ,D3,17.0,13696.0,47.4,10.0,1.0,Dec-2005,684.0,073
+12000.0,9.16,Debt consolidation,Operations Manager,6 years,MI,B2,16.57,9313.0,20.1,11.0,1.0,Apr-2008,719.0,480
+12000.0,12.29,Credit card refinancing,Legislative Assistant,1 year,VA,C1,20.73,3553.0,69.8,6.0,0.0,May-2008,669.0,222
+9000.0,16.29,Debt consolidation,production Tech,9 years,IN,D2,5.2,1104.0,61.3,2.0,0.0,Mar-2007,714.0,479
+4600.0,5.32,Credit card refinancing,driver,10+ years,NV,A1,10.04,31532.0,15.4,5.0,2.0,Dec-2001,819.0,890
+15000.0,10.64,Debt consolidation,Safety and Occupational Health Specialis,10+ years,TX,B4,18.54,13230.0,56.3,11.0,3.0,Apr-2001,699.0,765
+20000.0,14.33,Credit Card early repayment plan,Microsoft,8 years,WA,C1,15.09,71822.0,54.5,9.0,3.0,Feb-2000,704.0,980
+5725.0,14.33,debt consolidation,Sherms Thunderbird,7 years,OR,C1,28.04,4816.0,54.7,7.0,0.0,Nov-1998,689.0,974
+9750.0,12.99,Debt consolidation,Manager,< 1 year,IL,B4,19.03,11140.0,52.7,9.0,1.0,Apr-1986,689.0,607
+11900.0,23.43,Debt consolidation,Teacher,< 1 year,CA,F1,18.53,4024.0,53.8,3.0,2.0,Aug-2000,734.0,922
+10000.0,5.32,Credit card refinancing,Finance Business Partner,< 1 year,CA,A1,20.25,14180.0,55.7,5.0,0.0,Sep-2003,734.0,941
+6000.0,5.32,Home improvement,Solutions Engineer,1 year,CO,A1,5.29,8365.0,2.6,7.0,0.0,Aug-1977,784.0,800
+20000.0,9.99,Debt consolidation,Intervention specialist,5 years,OH,B3,14.16,17508.0,32.6,6.0,1.0,Aug-2004,709.0,443
+12000.0,12.29,Home improvement,National Trainer,10+ years,OH,C1,13.18,20119.0,58.7,4.0,2.0,Oct-1986,674.0,440
+14000.0,12.99,Debt consolidation,Driver,10+ years,AZ,C2,15.01,25950.0,19.8,6.0,4.0,Mar-1995,669.0,850
+6500.0,6.24,Major purchase,owner operator,10+ years,NC,A2,4.8,1842.0,80.5,7.0,1.0,Jul-2005,684.0,280
+12000.0,10.99,Credit card refinancing,Bulk Driver,10+ years,MN,B4,20.86,13753.0,51.8,7.0,4.0,Mar-2002,689.0,550
+20000.0,19.52,Home buying,Skilled Trades,10+ years,MI,E2,6.44,1554.0,34.7,8.0,0.0,Nov-1985,684.0,484
+18000.0,13.35,Debt consolidation,Corporate Accountant,2 years,CA,C2,22.32,4421.0,73.1,16.0,0.0,Jan-2003,669.0,945
+12000.0,8.9,Done with debt,Family & Cosmetic Dentistry,9 years,SC,A5,5.26,534.0,26.6,17.0,0.0,Apr-1999,704.0,294
+16000.0,17.99,Debt consolidation,Call Center Manager,10+ years,NJ,D2,19.77,19482.0,43.4,10.0,7.0,Jan-2005,704.0,080
+10850.0,8.39,Vacation,Budget Analyst,10+ years,MA,B1,32.62,8506.0,74.0,4.0,0.0,Jan-2004,729.0,017
+18250.0,17.27,Relief loan,gap inc,8 years,NY,C5,16.71,3889.0,48.9,6.0,0.0,Sep-2005,684.0,104
+5000.0,16.29,Home Improvement,County of Volusia,8 years,FL,C4,7.51,8218.0,45.4,6.0,5.0,Apr-1987,689.0,327
+16000.0,12.99,Credit card refinancing,A/P SR.,9 years,TX,C2,18.0,2724.0,80.5,11.0,0.0,Sep-1992,679.0,786
+17325.0,21.48,Credit card refinancing,Teacher,< 1 year,TX,E2,33.61,3580.0,87.2,7.0,1.0,Dec-1997,664.0,779
+4500.0,7.34,Home buying,Sprinkler Fitter,4 years,WI,A4,15.33,3495.0,29.7,10.0,3.0,Aug-2005,689.0,531
+25000.0,14.09,Debt Payoff,"CW Driver, Inc.",8 years,CA,B5,17.27,5638.0,57.3,8.0,0.0,May-1998,699.0,913
+20000.0,14.64,Debt consolidation,Executive Consultant,3 years,GA,C3,22.56,3212.0,46.9,20.0,0.0,Apr-1987,714.0,314
+35000.0,13.67,Debt consolidation,Program Specialist,9 years,TX,C3,32.77,23726.0,88.6,7.0,2.0,Dec-1998,694.0,786
+12925.0,25.83,Debt consolidation,machine operater,10+ years,OH,G2,6.91,1790.0,42.0,6.0,0.0,Jan-2004,704.0,452
+25000.0,15.99,Debt consolidation,Sales Manager,10+ years,IN,C5,20.27,24155.0,68.7,8.0,2.0,Dec-2000,679.0,468
+13600.0,8.67,Debt consolidation,Huc,10+ years,WA,B1,16.34,13917.0,53.9,12.0,3.0,Feb-2001,719.0,980
+17950.0,5.32,Credit card refinancing,SR VICE PRESIDENT,5 years,NY,A1,7.59,27489.0,57.0,10.0,6.0,Apr-1993,729.0,125
+11000.0,12.69,Debt consolidation,Bar,1 year,TX,C2,15.51,13502.0,56.2,6.0,3.0,May-2000,674.0,770
+15000.0,16.01,Credit card refinancing,Sales manager,6 years,CA,C5,18.67,4337.0,49.8,11.0,0.0,Jul-2009,664.0,917
+25000.0,14.33,Credit card refinancing,Letter Carrier,10+ years,KS,C5,20.56,10073.0,75.2,12.0,3.0,May-2004,669.0,671
+8000.0,11.49,Debt consolidation,Meteorologist,6 years,NE,B5,25.11,44451.0,75.9,4.0,1.0,Feb-1996,679.0,680
+35000.0,13.44,Debt consolidation,Territory Manager,2 years,TX,C3,24.89,18460.0,68.3,10.0,3.0,Jul-2003,699.0,785
+11500.0,8.18,Debt consolidation,Quality Manager,10+ years,TX,B1,10.42,35695.0,74.5,6.0,3.0,Oct-1994,669.0,761
+15000.0,16.55,Debt consolidation,Driver,3 years,ND,D2,22.13,19450.0,77.8,3.0,2.0,Aug-2004,679.0,588
+35000.0,11.53,Debt consolidation,"VP,Marketing",3 years,NY,B5,11.4,9144.0,96.3,6.0,3.0,Dec-2001,709.0,112
+14000.0,11.49,Debt consolidation,Manager Special Projects,10+ years,CO,B5,18.03,2409.0,47.7,21.0,0.0,Dec-1998,714.0,804
+6000.0,15.05,Credit card refinancing,Medical Assistant,10+ years,CA,C4,24.87,23806.0,43.2,14.0,2.0,Jan-1998,719.0,930
+18675.0,17.86,Debt consolidation,project manager,2 years,MI,D5,15.91,23337.0,64.9,7.0,3.0,Nov-2006,664.0,483
+9975.0,9.17,Debt consolidation,Secretary,< 1 year,VA,B2,22.43,21543.0,63.6,4.0,1.0,Jan-2006,679.0,237
+5000.0,18.06,Other,Driver,1 year,IN,D2,9.0,4176.0,97.6,2.0,0.0,Mar-2013,669.0,461
+10000.0,10.78,Credit card refinancing,Director,1 year,TX,B4,23.44,26892.0,62.2,4.0,1.0,Oct-2003,684.0,773
+8000.0,15.8,Credit Card Consolidation,McElroy Manufacturing Inc,2 years,OK,C3,10.76,8102.0,42.5,11.0,1.0,May-2000,679.0,740
+35000.0,25.81,Credit card refinancing,SR. FINANCE CONTROLLER,1 year,CA,E4,23.36,3473.0,33.0,23.0,0.0,Oct-2007,689.0,926
+12000.0,7.26,Credit card refinancing,Driver,6 years,GA,A4,33.31,8095.0,33.6,11.0,2.0,Mar-1998,734.0,314
+26125.0,22.99,Debt consolidation,Nurse Care Manager,< 1 year,UT,F1,12.67,3054.0,38.5,10.0,0.0,May-2011,679.0,841
+17000.0,16.29,Debt consolidation,lab asst mgr,10+ years,FL,D1,13.07,17564.0,90.0,9.0,2.0,Nov-2000,669.0,347
+25000.0,8.9,Credit card refinancing,Senior Network Engineer,10+ years,CA,A5,6.89,3465.0,55.4,8.0,0.0,Apr-2006,704.0,945
+18000.0,15.61,Debt consolidation,Associate,2 years,FL,D1,11.91,22328.0,76.7,8.0,0.0,May-2002,684.0,331
+25000.0,13.33,Business,Consultant,10+ years,CA,C3,6.11,3229.0,36.7,3.0,0.0,Jan-1996,689.0,912
+30000.0,18.25,Debt consolidation,BUSINESS MANAGER,6 years,TX,D3,18.03,19092.0,21.4,8.0,4.0,Feb-1996,674.0,760
+12000.0,15.99,Debt consolidation,Unloader,10+ years,FL,C5,8.4,22401.0,43.2,5.0,1.0,May-2004,664.0,349
+24000.0,14.65,Debt consolidation,Software Development Engineer 2,2 years,WA,C5,20.87,8769.0,78.3,8.0,0.0,Aug-2003,669.0,980
+9600.0,7.12,Home improvement,Associate,3 years,NY,A3,19.86,31967.0,74.2,4.0,1.0,Dec-1998,724.0,070
+10400.0,17.57,Debt consolidation,Assistant District Supervisor,5 years,MO,D4,15.94,2521.0,93.8,4.0,0.0,Oct-2004,669.0,640
+19800.0,13.99,Debt consolidation,Administrative Analyst Specialist,10+ years,CA,C3,11.69,5738.0,68.6,7.0,0.0,Mar-1996,684.0,941
+24000.0,16.78,Debt consolidation,"Albany Molecular Research, Inc.",10+ years,NY,C5,11.44,3382.0,46.6,7.0,2.0,Dec-1999,704.0,122
+11200.0,7.89,Debt consolidation,Staff Assistant Supervisor,4 years,MI,A5,7.19,1362.0,68.0,11.0,0.0,Sep-1997,679.0,481
+14100.0,21.48,Debt consolidation,lead man printing,10+ years,TX,E5,29.31,6409.0,91.5,4.0,0.0,Jan-2004,664.0,757
+8000.0,9.44,Home improvement,Production operator,3 years,IL,B1,14.03,18218.0,56.4,3.0,3.0,Mar-2008,704.0,612
+12600.0,10.99,Debt consolidation,Heavy Equipment Operator,2 years,OR,B2,6.45,1194.0,62.5,10.0,0.0,Oct-2003,674.0,972
+8000.0,12.69,Credit card refinancing,Customer Service Rep,9 years,NY,C2,8.36,2010.0,65.6,3.0,0.0,Feb-2007,689.0,100
+20000.0,9.17,Debt consolidation,Chief Financial Officer,1 year,WI,B2,26.72,10624.0,63.1,17.0,5.0,Apr-1998,674.0,537
+6000.0,11.99,Debt consolidation,Teacher,10+ years,TX,B3,22.98,20408.0,60.1,6.0,5.0,Mar-1999,699.0,752
+11625.0,11.14,Other,Anchor Financial Group,< 1 year,VA,B2,7.12,90875.0,63.3,5.0,2.0,May-2007,719.0,229
+18000.0,13.99,Debt consolidation,Rn,10+ years,TX,C4,19.74,16166.0,62.3,6.0,1.0,Mar-1996,714.0,762
+16000.0,9.49,Debt consolidation,senior field engineer,10+ years,PA,B2,29.65,4187.0,65.2,12.0,0.0,Apr-1984,714.0,183
+12050.0,19.52,Debt consolidation,Lead Commercial Fire Alarm Inspector,4 years,TN,E2,37.03,11080.0,83.2,12.0,5.0,Dec-2000,664.0,370
+15500.0,8.18,Credit card refinancing,RN,3 years,MI,B1,32.42,21380.0,38.3,7.0,3.0,Dec-2000,674.0,482
+35000.0,17.86,Business,manager,2 years,LA,D5,17.34,6128.0,79.1,6.0,1.0,Dec-2004,664.0,703

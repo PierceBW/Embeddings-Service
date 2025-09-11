@@ -1,0 +1,17 @@
+{
+  "loan_amnt": 10075.0,
+  "int_rate": 5.32,
+  "dti": 6.07,
+  "avg_cur_bal": 18710.0,
+  "revol_util": 27.6,
+  "num_op_rev_tl": 11.0,
+  "mort_acc": 2.0,
+  "fico_range_high": 754.0,
+  "title": "Debt consolidation",
+  "emp_title": "Analyst",
+  "emp_length": "10+ years",
+  "addr_state": "TX",
+  "sub_grade": "A1",
+  "earliest_cr_line": "Mar-2001",
+  "zip_code": "760"
+}

@@ -1,0 +1,29 @@
+# ==== Runtime dependencies (pinned) ====
+
+# Core ML
+torch==2.3.0            # CPU-only build; adjust if you need CUDA variant
+
+# Embedding
+sentence-transformers==2.7.0
+
+# API stack
+fastapi==0.111.0
+uvicorn==0.30.1
+gunicorn==22.0.0
+
+# Utilities
+numpy==1.26.4
+pyyaml==6.0.1
+pydantic==2.7.1          # Explicit pin although FastAPI already requires it
+
+# Optional typing stubs (silences linters, zero runtime cost)
+#types-numpy==1.26.0.20240410
+#types-PyYAML==6.0.12.20240311
+
+# Async database stack
+asyncpg==0.29.0
+SQLAlchemy[asynio]==2.0.30
+alembic==1.13.1
+pgvector>=0.2.4
+greenlet>=2.0
+psycopg[binary]>=3.1

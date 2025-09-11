@@ -1,0 +1,22 @@
+name: EmbeddingService
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - scikit-learn
+  - seaborn
+  - numpy
+  - matplotlib
+  - pandas
+  - sentence-transformers
+  - kaggle
+  - imbalanced-learn
+  - tensorflow
+  - tf-keras
+  - transformers
+  - tabulate
+  - openpyxl
+  - xgboost=2.0.3
+  - dask
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/EmbeddingService
