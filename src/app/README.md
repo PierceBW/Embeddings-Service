@@ -42,13 +42,6 @@ npm run dev
 | POST   | `/predictions/{id}/explain` | Generate or retrieve explanation for a given record |
 | GET    | `/predictions/{id}/nearest?k=N` | k-nearest neighbours by cosine distance |
 
-Example `POST /predict` body (keys **must** match `feature_order` in `config.yaml`):
-```json
-{
-
-}
-```
-
 ---
 ## Configuration (`config.yaml`)
 ```yaml
