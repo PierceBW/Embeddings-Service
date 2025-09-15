@@ -37,11 +37,11 @@ embeddings-service-exploration/
   - **src/models**: Notebooks for baseline (MLP/XGB) and embedding-aware models.
 
 - **Documentation**
-  - **docs/**: Extended guides, notes, and troubleshooting.
+  - **docs/**: Extended guides, notes, and troubleshooting (unimplemented).
 
 ## Quickstart app
 
-- API + DB (Docker, recommended)
+- API + DB (Docker required)
   1. `cd src/app`
   2. `docker compose up -d`
   3. Open `http://localhost:8000/health` (service returns 503 until ready)
@@ -51,7 +51,7 @@ embeddings-service-exploration/
   1. `cd src/app/web`
   2. `npm install`
   3. `npm run dev` → open `http://localhost:5173` (just click the link vite provides)
-  4. Explore home page and use predict button or choose batch predict and select a csv file in ex. app/test_data/test_payload_large.csv and explore the app
+  4. Explore home page and use predict button or choose batch predict and select a csv file in ex. app/test_data/test_payload_large.csv and explore the UI
 
 
 
@@ -140,13 +140,6 @@ These folders are created automatically if missing. Place raw inputs under `src/
    - `03_embeddings_MLP_XGB.ipynb`: train MLP/XGB using embeddings. Uses memory-mapped arrays; update file paths to point at the embeddings you generated.
 6. Set seeds where applicable and run cells top-to-bottom. Adjust file paths only if you deviated from the standard `src/data` locations.
 7. Record reported metrics and compare to those in the paper. Minor CPU/HW variation in `sentence-transformers` can change scores slightly.
-
-
-## Citation
-
-If you use this artifact, please cite the paper. Example BibTeX:
-```bibtex
-```
 
 ## License
 Apache-2.0
